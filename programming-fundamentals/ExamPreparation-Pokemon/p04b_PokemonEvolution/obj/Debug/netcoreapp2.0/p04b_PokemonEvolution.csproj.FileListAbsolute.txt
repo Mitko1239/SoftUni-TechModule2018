@@ -1,0 +1,11 @@
+D:\Projects\GitHub\SoftUni-TechModule2018\programming-fundamentals\ExamPreparation-Pokemon\p04b_PokemonEvolution\bin\Debug\netcoreapp2.0\p04b_PokemonEvolution.deps.json
+D:\Projects\GitHub\SoftUni-TechModule2018\programming-fundamentals\ExamPreparation-Pokemon\p04b_PokemonEvolution\bin\Debug\netcoreapp2.0\p04b_PokemonEvolution.runtimeconfig.json
+D:\Projects\GitHub\SoftUni-TechModule2018\programming-fundamentals\ExamPreparation-Pokemon\p04b_PokemonEvolution\bin\Debug\netcoreapp2.0\p04b_PokemonEvolution.runtimeconfig.dev.json
+D:\Projects\GitHub\SoftUni-TechModule2018\programming-fundamentals\ExamPreparation-Pokemon\p04b_PokemonEvolution\bin\Debug\netcoreapp2.0\p04b_PokemonEvolution.dll
+D:\Projects\GitHub\SoftUni-TechModule2018\programming-fundamentals\ExamPreparation-Pokemon\p04b_PokemonEvolution\bin\Debug\netcoreapp2.0\p04b_PokemonEvolution.pdb
+D:\Projects\GitHub\SoftUni-TechModule2018\programming-fundamentals\ExamPreparation-Pokemon\p04b_PokemonEvolution\obj\Debug\netcoreapp2.0\p04b_PokemonEvolution.csprojResolveAssemblyReference.cache
+D:\Projects\GitHub\SoftUni-TechModule2018\programming-fundamentals\ExamPreparation-Pokemon\p04b_PokemonEvolution\obj\Debug\netcoreapp2.0\p04b_PokemonEvolution.csproj.CoreCompileInputs.cache
+D:\Projects\GitHub\SoftUni-TechModule2018\programming-fundamentals\ExamPreparation-Pokemon\p04b_PokemonEvolution\obj\Debug\netcoreapp2.0\p04b_PokemonEvolution.AssemblyInfoInputs.cache
+D:\Projects\GitHub\SoftUni-TechModule2018\programming-fundamentals\ExamPreparation-Pokemon\p04b_PokemonEvolution\obj\Debug\netcoreapp2.0\p04b_PokemonEvolution.AssemblyInfo.cs
+D:\Projects\GitHub\SoftUni-TechModule2018\programming-fundamentals\ExamPreparation-Pokemon\p04b_PokemonEvolution\obj\Debug\netcoreapp2.0\p04b_PokemonEvolution.dll
+D:\Projects\GitHub\SoftUni-TechModule2018\programming-fundamentals\ExamPreparation-Pokemon\p04b_PokemonEvolution\obj\Debug\netcoreapp2.0\p04b_PokemonEvolution.pdb
