@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\C#\StringsAndTextProcessingExercises\p05b\bin\Debug\netcoreapp2.0\p05b.deps.json
+D:\Projects\Visual Studio\C#\StringsAndTextProcessingExercises\p05b\bin\Debug\netcoreapp2.0\p05b.runtimeconfig.json
+D:\Projects\Visual Studio\C#\StringsAndTextProcessingExercises\p05b\bin\Debug\netcoreapp2.0\p05b.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\StringsAndTextProcessingExercises\p05b\bin\Debug\netcoreapp2.0\p05b.dll
+D:\Projects\Visual Studio\C#\StringsAndTextProcessingExercises\p05b\bin\Debug\netcoreapp2.0\p05b.pdb
+D:\Projects\Visual Studio\C#\StringsAndTextProcessingExercises\p05b\obj\Debug\netcoreapp2.0\p05b.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\StringsAndTextProcessingExercises\p05b\obj\Debug\netcoreapp2.0\p05b.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\StringsAndTextProcessingExercises\p05b\obj\Debug\netcoreapp2.0\p05b.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\StringsAndTextProcessingExercises\p05b\obj\Debug\netcoreapp2.0\p05b.dll
+D:\Projects\Visual Studio\C#\StringsAndTextProcessingExercises\p05b\obj\Debug\netcoreapp2.0\p05b.pdb
+D:\Projects\Visual Studio\C#\StringsAndTextProcessingExercises\p05b\obj\Debug\netcoreapp2.0\p05b.csprojResolveAssemblyReference.cache

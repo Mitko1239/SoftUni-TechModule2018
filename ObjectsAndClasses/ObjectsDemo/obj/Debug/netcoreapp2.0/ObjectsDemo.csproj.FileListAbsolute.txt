@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\C#\ObjectsAndClasses\ObjectsDemo\bin\Debug\netcoreapp2.0\ObjectsDemo.deps.json
+D:\Projects\Visual Studio\C#\ObjectsAndClasses\ObjectsDemo\bin\Debug\netcoreapp2.0\ObjectsDemo.runtimeconfig.json
+D:\Projects\Visual Studio\C#\ObjectsAndClasses\ObjectsDemo\bin\Debug\netcoreapp2.0\ObjectsDemo.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\ObjectsAndClasses\ObjectsDemo\bin\Debug\netcoreapp2.0\ObjectsDemo.dll
+D:\Projects\Visual Studio\C#\ObjectsAndClasses\ObjectsDemo\bin\Debug\netcoreapp2.0\ObjectsDemo.pdb
+D:\Projects\Visual Studio\C#\ObjectsAndClasses\ObjectsDemo\obj\Debug\netcoreapp2.0\ObjectsDemo.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\C#\ObjectsAndClasses\ObjectsDemo\obj\Debug\netcoreapp2.0\ObjectsDemo.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\ObjectsAndClasses\ObjectsDemo\obj\Debug\netcoreapp2.0\ObjectsDemo.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\ObjectsAndClasses\ObjectsDemo\obj\Debug\netcoreapp2.0\ObjectsDemo.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\ObjectsAndClasses\ObjectsDemo\obj\Debug\netcoreapp2.0\ObjectsDemo.dll
+D:\Projects\Visual Studio\C#\ObjectsAndClasses\ObjectsDemo\obj\Debug\netcoreapp2.0\ObjectsDemo.pdb

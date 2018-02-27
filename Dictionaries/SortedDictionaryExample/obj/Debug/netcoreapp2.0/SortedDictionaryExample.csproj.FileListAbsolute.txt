@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\C#\Dictionaries\SortedDictionaryExample\bin\Debug\netcoreapp2.0\SortedDictionaryExample.deps.json
+D:\Projects\Visual Studio\C#\Dictionaries\SortedDictionaryExample\bin\Debug\netcoreapp2.0\SortedDictionaryExample.runtimeconfig.json
+D:\Projects\Visual Studio\C#\Dictionaries\SortedDictionaryExample\bin\Debug\netcoreapp2.0\SortedDictionaryExample.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\Dictionaries\SortedDictionaryExample\bin\Debug\netcoreapp2.0\SortedDictionaryExample.dll
+D:\Projects\Visual Studio\C#\Dictionaries\SortedDictionaryExample\bin\Debug\netcoreapp2.0\SortedDictionaryExample.pdb
+D:\Projects\Visual Studio\C#\Dictionaries\SortedDictionaryExample\obj\Debug\netcoreapp2.0\SortedDictionaryExample.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\C#\Dictionaries\SortedDictionaryExample\obj\Debug\netcoreapp2.0\SortedDictionaryExample.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\Dictionaries\SortedDictionaryExample\obj\Debug\netcoreapp2.0\SortedDictionaryExample.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\Dictionaries\SortedDictionaryExample\obj\Debug\netcoreapp2.0\SortedDictionaryExample.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\Dictionaries\SortedDictionaryExample\obj\Debug\netcoreapp2.0\SortedDictionaryExample.dll
+D:\Projects\Visual Studio\C#\Dictionaries\SortedDictionaryExample\obj\Debug\netcoreapp2.0\SortedDictionaryExample.pdb

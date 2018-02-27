@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\C#\Lists\p01_RemoveNegativesAndReverse\bin\Debug\netcoreapp2.0\p01_RemoveNegativesAndReverse.deps.json
+D:\Projects\Visual Studio\C#\Lists\p01_RemoveNegativesAndReverse\bin\Debug\netcoreapp2.0\p01_RemoveNegativesAndReverse.runtimeconfig.json
+D:\Projects\Visual Studio\C#\Lists\p01_RemoveNegativesAndReverse\bin\Debug\netcoreapp2.0\p01_RemoveNegativesAndReverse.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\Lists\p01_RemoveNegativesAndReverse\bin\Debug\netcoreapp2.0\p01_RemoveNegativesAndReverse.dll
+D:\Projects\Visual Studio\C#\Lists\p01_RemoveNegativesAndReverse\bin\Debug\netcoreapp2.0\p01_RemoveNegativesAndReverse.pdb
+D:\Projects\Visual Studio\C#\Lists\p01_RemoveNegativesAndReverse\obj\Debug\netcoreapp2.0\p01_RemoveNegativesAndReverse.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\C#\Lists\p01_RemoveNegativesAndReverse\obj\Debug\netcoreapp2.0\p01_RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\Lists\p01_RemoveNegativesAndReverse\obj\Debug\netcoreapp2.0\p01_RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\Lists\p01_RemoveNegativesAndReverse\obj\Debug\netcoreapp2.0\p01_RemoveNegativesAndReverse.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\Lists\p01_RemoveNegativesAndReverse\obj\Debug\netcoreapp2.0\p01_RemoveNegativesAndReverse.dll
+D:\Projects\Visual Studio\C#\Lists\p01_RemoveNegativesAndReverse\obj\Debug\netcoreapp2.0\p01_RemoveNegativesAndReverse.pdb

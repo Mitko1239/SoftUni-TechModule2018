@@ -1,0 +1,22 @@
+D:\Projects\Visual Studio\C#\DictionariesExercises\p06_UserLogs\bin\Debug\netcoreapp2.0\p06_UserLogs.deps.json
+D:\Projects\Visual Studio\C#\DictionariesExercises\p06_UserLogs\bin\Debug\netcoreapp2.0\p06_UserLogs.runtimeconfig.json
+D:\Projects\Visual Studio\C#\DictionariesExercises\p06_UserLogs\bin\Debug\netcoreapp2.0\p06_UserLogs.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\DictionariesExercises\p06_UserLogs\bin\Debug\netcoreapp2.0\p06_UserLogs.dll
+D:\Projects\Visual Studio\C#\DictionariesExercises\p06_UserLogs\bin\Debug\netcoreapp2.0\p06_UserLogs.pdb
+D:\Projects\Visual Studio\C#\DictionariesExercises\p06_UserLogs\obj\Debug\netcoreapp2.0\p06_UserLogs.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\C#\DictionariesExercises\p06_UserLogs\obj\Debug\netcoreapp2.0\p06_UserLogs.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\DictionariesExercises\p06_UserLogs\obj\Debug\netcoreapp2.0\p06_UserLogs.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\DictionariesExercises\p06_UserLogs\obj\Debug\netcoreapp2.0\p06_UserLogs.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\DictionariesExercises\p06_UserLogs\obj\Debug\netcoreapp2.0\p06_UserLogs.dll
+D:\Projects\Visual Studio\C#\DictionariesExercises\p06_UserLogs\obj\Debug\netcoreapp2.0\p06_UserLogs.pdb
+D:\Projects\GitHub\SoftUni-TechModule2018\DictionariesExercises\p06_UserLogs\bin\Debug\netcoreapp2.0\p06_UserLogs.deps.json
+D:\Projects\GitHub\SoftUni-TechModule2018\DictionariesExercises\p06_UserLogs\bin\Debug\netcoreapp2.0\p06_UserLogs.runtimeconfig.json
+D:\Projects\GitHub\SoftUni-TechModule2018\DictionariesExercises\p06_UserLogs\bin\Debug\netcoreapp2.0\p06_UserLogs.runtimeconfig.dev.json
+D:\Projects\GitHub\SoftUni-TechModule2018\DictionariesExercises\p06_UserLogs\bin\Debug\netcoreapp2.0\p06_UserLogs.dll
+D:\Projects\GitHub\SoftUni-TechModule2018\DictionariesExercises\p06_UserLogs\bin\Debug\netcoreapp2.0\p06_UserLogs.pdb
+D:\Projects\GitHub\SoftUni-TechModule2018\DictionariesExercises\p06_UserLogs\obj\Debug\netcoreapp2.0\p06_UserLogs.csprojResolveAssemblyReference.cache
+D:\Projects\GitHub\SoftUni-TechModule2018\DictionariesExercises\p06_UserLogs\obj\Debug\netcoreapp2.0\p06_UserLogs.csproj.CoreCompileInputs.cache
+D:\Projects\GitHub\SoftUni-TechModule2018\DictionariesExercises\p06_UserLogs\obj\Debug\netcoreapp2.0\p06_UserLogs.AssemblyInfoInputs.cache
+D:\Projects\GitHub\SoftUni-TechModule2018\DictionariesExercises\p06_UserLogs\obj\Debug\netcoreapp2.0\p06_UserLogs.AssemblyInfo.cs
+D:\Projects\GitHub\SoftUni-TechModule2018\DictionariesExercises\p06_UserLogs\obj\Debug\netcoreapp2.0\p06_UserLogs.dll
+D:\Projects\GitHub\SoftUni-TechModule2018\DictionariesExercises\p06_UserLogs\obj\Debug\netcoreapp2.0\p06_UserLogs.pdb

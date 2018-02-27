@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p06_StringsAndObjects\bin\Debug\netcoreapp2.0\p06_StringsAndObjects.deps.json
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p06_StringsAndObjects\bin\Debug\netcoreapp2.0\p06_StringsAndObjects.runtimeconfig.json
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p06_StringsAndObjects\bin\Debug\netcoreapp2.0\p06_StringsAndObjects.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p06_StringsAndObjects\bin\Debug\netcoreapp2.0\p06_StringsAndObjects.dll
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p06_StringsAndObjects\bin\Debug\netcoreapp2.0\p06_StringsAndObjects.pdb
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p06_StringsAndObjects\obj\Debug\netcoreapp2.0\p06_StringsAndObjects.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p06_StringsAndObjects\obj\Debug\netcoreapp2.0\p06_StringsAndObjects.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p06_StringsAndObjects\obj\Debug\netcoreapp2.0\p06_StringsAndObjects.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p06_StringsAndObjects\obj\Debug\netcoreapp2.0\p06_StringsAndObjects.dll
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p06_StringsAndObjects\obj\Debug\netcoreapp2.0\p06_StringsAndObjects.pdb
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p06_StringsAndObjects\obj\Debug\netcoreapp2.0\p06_StringsAndObjects.csprojResolveAssemblyReference.cache

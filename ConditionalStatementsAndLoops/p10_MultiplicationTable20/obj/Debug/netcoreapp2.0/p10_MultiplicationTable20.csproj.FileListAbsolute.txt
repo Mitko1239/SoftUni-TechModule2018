@@ -1,0 +1,10 @@
+D:\Projects\GitHub\SoftUni-TechModule2018\ConditionalStatementsAndLoops\p10_MultiplicationTable20\bin\Debug\netcoreapp2.0\p10_MultiplicationTable20.deps.json
+D:\Projects\GitHub\SoftUni-TechModule2018\ConditionalStatementsAndLoops\p10_MultiplicationTable20\bin\Debug\netcoreapp2.0\p10_MultiplicationTable20.runtimeconfig.json
+D:\Projects\GitHub\SoftUni-TechModule2018\ConditionalStatementsAndLoops\p10_MultiplicationTable20\bin\Debug\netcoreapp2.0\p10_MultiplicationTable20.runtimeconfig.dev.json
+D:\Projects\GitHub\SoftUni-TechModule2018\ConditionalStatementsAndLoops\p10_MultiplicationTable20\bin\Debug\netcoreapp2.0\p10_MultiplicationTable20.dll
+D:\Projects\GitHub\SoftUni-TechModule2018\ConditionalStatementsAndLoops\p10_MultiplicationTable20\bin\Debug\netcoreapp2.0\p10_MultiplicationTable20.pdb
+D:\Projects\GitHub\SoftUni-TechModule2018\ConditionalStatementsAndLoops\p10_MultiplicationTable20\obj\Debug\netcoreapp2.0\p10_MultiplicationTable20.csproj.CoreCompileInputs.cache
+D:\Projects\GitHub\SoftUni-TechModule2018\ConditionalStatementsAndLoops\p10_MultiplicationTable20\obj\Debug\netcoreapp2.0\p10_MultiplicationTable20.AssemblyInfoInputs.cache
+D:\Projects\GitHub\SoftUni-TechModule2018\ConditionalStatementsAndLoops\p10_MultiplicationTable20\obj\Debug\netcoreapp2.0\p10_MultiplicationTable20.AssemblyInfo.cs
+D:\Projects\GitHub\SoftUni-TechModule2018\ConditionalStatementsAndLoops\p10_MultiplicationTable20\obj\Debug\netcoreapp2.0\p10_MultiplicationTable20.dll
+D:\Projects\GitHub\SoftUni-TechModule2018\ConditionalStatementsAndLoops\p10_MultiplicationTable20\obj\Debug\netcoreapp2.0\p10_MultiplicationTable20.pdb

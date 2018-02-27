@@ -1,0 +1,22 @@
+D:\Projects\Visual Studio\C#\DictionariesExercises\p05_HandsOfCards\obj\Debug\netcoreapp2.0\p05_HandsOfCards.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\C#\DictionariesExercises\p05_HandsOfCards\obj\Debug\netcoreapp2.0\p05_HandsOfCards.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\DictionariesExercises\p05_HandsOfCards\obj\Debug\netcoreapp2.0\p05_HandsOfCards.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\DictionariesExercises\p05_HandsOfCards\obj\Debug\netcoreapp2.0\p05_HandsOfCards.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\DictionariesExercises\p05_HandsOfCards\bin\Debug\netcoreapp2.0\p05_HandsOfCards.deps.json
+D:\Projects\Visual Studio\C#\DictionariesExercises\p05_HandsOfCards\bin\Debug\netcoreapp2.0\p05_HandsOfCards.runtimeconfig.json
+D:\Projects\Visual Studio\C#\DictionariesExercises\p05_HandsOfCards\bin\Debug\netcoreapp2.0\p05_HandsOfCards.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\DictionariesExercises\p05_HandsOfCards\bin\Debug\netcoreapp2.0\p05_HandsOfCards.dll
+D:\Projects\Visual Studio\C#\DictionariesExercises\p05_HandsOfCards\bin\Debug\netcoreapp2.0\p05_HandsOfCards.pdb
+D:\Projects\Visual Studio\C#\DictionariesExercises\p05_HandsOfCards\obj\Debug\netcoreapp2.0\p05_HandsOfCards.dll
+D:\Projects\Visual Studio\C#\DictionariesExercises\p05_HandsOfCards\obj\Debug\netcoreapp2.0\p05_HandsOfCards.pdb
+D:\Projects\GitHub\SoftUni-TechModule2018\DictionariesExercises\p05_HandsOfCards\bin\Debug\netcoreapp2.0\p05_HandsOfCards.deps.json
+D:\Projects\GitHub\SoftUni-TechModule2018\DictionariesExercises\p05_HandsOfCards\bin\Debug\netcoreapp2.0\p05_HandsOfCards.runtimeconfig.json
+D:\Projects\GitHub\SoftUni-TechModule2018\DictionariesExercises\p05_HandsOfCards\bin\Debug\netcoreapp2.0\p05_HandsOfCards.runtimeconfig.dev.json
+D:\Projects\GitHub\SoftUni-TechModule2018\DictionariesExercises\p05_HandsOfCards\bin\Debug\netcoreapp2.0\p05_HandsOfCards.dll
+D:\Projects\GitHub\SoftUni-TechModule2018\DictionariesExercises\p05_HandsOfCards\bin\Debug\netcoreapp2.0\p05_HandsOfCards.pdb
+D:\Projects\GitHub\SoftUni-TechModule2018\DictionariesExercises\p05_HandsOfCards\obj\Debug\netcoreapp2.0\p05_HandsOfCards.csprojResolveAssemblyReference.cache
+D:\Projects\GitHub\SoftUni-TechModule2018\DictionariesExercises\p05_HandsOfCards\obj\Debug\netcoreapp2.0\p05_HandsOfCards.csproj.CoreCompileInputs.cache
+D:\Projects\GitHub\SoftUni-TechModule2018\DictionariesExercises\p05_HandsOfCards\obj\Debug\netcoreapp2.0\p05_HandsOfCards.AssemblyInfoInputs.cache
+D:\Projects\GitHub\SoftUni-TechModule2018\DictionariesExercises\p05_HandsOfCards\obj\Debug\netcoreapp2.0\p05_HandsOfCards.AssemblyInfo.cs
+D:\Projects\GitHub\SoftUni-TechModule2018\DictionariesExercises\p05_HandsOfCards\obj\Debug\netcoreapp2.0\p05_HandsOfCards.dll
+D:\Projects\GitHub\SoftUni-TechModule2018\DictionariesExercises\p05_HandsOfCards\obj\Debug\netcoreapp2.0\p05_HandsOfCards.pdb

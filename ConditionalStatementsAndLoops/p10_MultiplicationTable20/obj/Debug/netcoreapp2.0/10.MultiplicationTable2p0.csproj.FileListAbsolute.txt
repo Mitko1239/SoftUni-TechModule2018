@@ -1,0 +1,10 @@
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoops\MultiplicationTable2p0\bin\Debug\netcoreapp2.0\10.MultiplicationTable2p0.deps.json
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoops\MultiplicationTable2p0\bin\Debug\netcoreapp2.0\10.MultiplicationTable2p0.runtimeconfig.json
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoops\MultiplicationTable2p0\bin\Debug\netcoreapp2.0\10.MultiplicationTable2p0.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoops\MultiplicationTable2p0\bin\Debug\netcoreapp2.0\10.MultiplicationTable2p0.dll
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoops\MultiplicationTable2p0\bin\Debug\netcoreapp2.0\10.MultiplicationTable2p0.pdb
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoops\MultiplicationTable2p0\obj\Debug\netcoreapp2.0\10.MultiplicationTable2p0.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoops\MultiplicationTable2p0\obj\Debug\netcoreapp2.0\10.MultiplicationTable2p0.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoops\MultiplicationTable2p0\obj\Debug\netcoreapp2.0\10.MultiplicationTable2p0.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoops\MultiplicationTable2p0\obj\Debug\netcoreapp2.0\10.MultiplicationTable2p0.dll
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoops\MultiplicationTable2p0\obj\Debug\netcoreapp2.0\10.MultiplicationTable2p0.pdb

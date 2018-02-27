@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p03_PracticeCharactersAndStrings\bin\Debug\netcoreapp2.0\p03_PracticeCharactersAndStrings.deps.json
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p03_PracticeCharactersAndStrings\bin\Debug\netcoreapp2.0\p03_PracticeCharactersAndStrings.runtimeconfig.json
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p03_PracticeCharactersAndStrings\bin\Debug\netcoreapp2.0\p03_PracticeCharactersAndStrings.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p03_PracticeCharactersAndStrings\bin\Debug\netcoreapp2.0\p03_PracticeCharactersAndStrings.dll
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p03_PracticeCharactersAndStrings\bin\Debug\netcoreapp2.0\p03_PracticeCharactersAndStrings.pdb
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p03_PracticeCharactersAndStrings\obj\Debug\netcoreapp2.0\p03_PracticeCharactersAndStrings.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p03_PracticeCharactersAndStrings\obj\Debug\netcoreapp2.0\p03_PracticeCharactersAndStrings.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p03_PracticeCharactersAndStrings\obj\Debug\netcoreapp2.0\p03_PracticeCharactersAndStrings.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p03_PracticeCharactersAndStrings\obj\Debug\netcoreapp2.0\p03_PracticeCharactersAndStrings.dll
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p03_PracticeCharactersAndStrings\obj\Debug\netcoreapp2.0\p03_PracticeCharactersAndStrings.pdb
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p03_PracticeCharactersAndStrings\obj\Debug\netcoreapp2.0\p03_PracticeCharactersAndStrings.csprojResolveAssemblyReference.cache

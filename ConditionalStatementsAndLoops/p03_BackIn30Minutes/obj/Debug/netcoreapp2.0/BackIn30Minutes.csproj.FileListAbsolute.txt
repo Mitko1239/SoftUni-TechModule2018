@@ -1,0 +1,10 @@
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoops\BackIn30Minutes\bin\Debug\netcoreapp2.0\BackIn30Minutes.deps.json
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoops\BackIn30Minutes\bin\Debug\netcoreapp2.0\BackIn30Minutes.runtimeconfig.json
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoops\BackIn30Minutes\bin\Debug\netcoreapp2.0\BackIn30Minutes.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoops\BackIn30Minutes\bin\Debug\netcoreapp2.0\BackIn30Minutes.dll
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoops\BackIn30Minutes\bin\Debug\netcoreapp2.0\BackIn30Minutes.pdb
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoops\BackIn30Minutes\obj\Debug\netcoreapp2.0\BackIn30Minutes.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoops\BackIn30Minutes\obj\Debug\netcoreapp2.0\BackIn30Minutes.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoops\BackIn30Minutes\obj\Debug\netcoreapp2.0\BackIn30Minutes.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoops\BackIn30Minutes\obj\Debug\netcoreapp2.0\BackIn30Minutes.dll
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoops\BackIn30Minutes\obj\Debug\netcoreapp2.0\BackIn30Minutes.pdb

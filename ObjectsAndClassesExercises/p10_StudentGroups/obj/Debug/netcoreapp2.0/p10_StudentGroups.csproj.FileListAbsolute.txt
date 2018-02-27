@@ -1,0 +1,10 @@
+D:\Projects\GitHub\SoftUni-TechModule2018\ObjectsAndClassesExercises\p10_StudentGroups\bin\Debug\netcoreapp2.0\p10_StudentGroups.deps.json
+D:\Projects\GitHub\SoftUni-TechModule2018\ObjectsAndClassesExercises\p10_StudentGroups\bin\Debug\netcoreapp2.0\p10_StudentGroups.runtimeconfig.json
+D:\Projects\GitHub\SoftUni-TechModule2018\ObjectsAndClassesExercises\p10_StudentGroups\bin\Debug\netcoreapp2.0\p10_StudentGroups.runtimeconfig.dev.json
+D:\Projects\GitHub\SoftUni-TechModule2018\ObjectsAndClassesExercises\p10_StudentGroups\bin\Debug\netcoreapp2.0\p10_StudentGroups.dll
+D:\Projects\GitHub\SoftUni-TechModule2018\ObjectsAndClassesExercises\p10_StudentGroups\bin\Debug\netcoreapp2.0\p10_StudentGroups.pdb
+D:\Projects\GitHub\SoftUni-TechModule2018\ObjectsAndClassesExercises\p10_StudentGroups\obj\Debug\netcoreapp2.0\p10_StudentGroups.csproj.CoreCompileInputs.cache
+D:\Projects\GitHub\SoftUni-TechModule2018\ObjectsAndClassesExercises\p10_StudentGroups\obj\Debug\netcoreapp2.0\p10_StudentGroups.AssemblyInfoInputs.cache
+D:\Projects\GitHub\SoftUni-TechModule2018\ObjectsAndClassesExercises\p10_StudentGroups\obj\Debug\netcoreapp2.0\p10_StudentGroups.AssemblyInfo.cs
+D:\Projects\GitHub\SoftUni-TechModule2018\ObjectsAndClassesExercises\p10_StudentGroups\obj\Debug\netcoreapp2.0\p10_StudentGroups.dll
+D:\Projects\GitHub\SoftUni-TechModule2018\ObjectsAndClassesExercises\p10_StudentGroups\obj\Debug\netcoreapp2.0\p10_StudentGroups.pdb

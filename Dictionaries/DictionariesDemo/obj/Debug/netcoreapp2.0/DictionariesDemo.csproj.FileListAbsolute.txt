@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\C#\Dictionaries\DictionariesDemo\bin\Debug\netcoreapp2.0\DictionariesDemo.deps.json
+D:\Projects\Visual Studio\C#\Dictionaries\DictionariesDemo\bin\Debug\netcoreapp2.0\DictionariesDemo.runtimeconfig.json
+D:\Projects\Visual Studio\C#\Dictionaries\DictionariesDemo\bin\Debug\netcoreapp2.0\DictionariesDemo.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\Dictionaries\DictionariesDemo\bin\Debug\netcoreapp2.0\DictionariesDemo.dll
+D:\Projects\Visual Studio\C#\Dictionaries\DictionariesDemo\bin\Debug\netcoreapp2.0\DictionariesDemo.pdb
+D:\Projects\Visual Studio\C#\Dictionaries\DictionariesDemo\obj\Debug\netcoreapp2.0\DictionariesDemo.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\C#\Dictionaries\DictionariesDemo\obj\Debug\netcoreapp2.0\DictionariesDemo.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\Dictionaries\DictionariesDemo\obj\Debug\netcoreapp2.0\DictionariesDemo.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\Dictionaries\DictionariesDemo\obj\Debug\netcoreapp2.0\DictionariesDemo.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\Dictionaries\DictionariesDemo\obj\Debug\netcoreapp2.0\DictionariesDemo.dll
+D:\Projects\Visual Studio\C#\Dictionaries\DictionariesDemo\obj\Debug\netcoreapp2.0\DictionariesDemo.pdb

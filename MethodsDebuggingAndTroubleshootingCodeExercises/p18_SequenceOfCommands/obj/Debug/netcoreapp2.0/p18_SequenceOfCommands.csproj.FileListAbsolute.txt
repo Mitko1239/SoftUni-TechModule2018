@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p18_SequenceOfCommands\bin\Debug\netcoreapp2.0\p18_SequenceOfCommands.deps.json
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p18_SequenceOfCommands\bin\Debug\netcoreapp2.0\p18_SequenceOfCommands.runtimeconfig.json
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p18_SequenceOfCommands\bin\Debug\netcoreapp2.0\p18_SequenceOfCommands.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p18_SequenceOfCommands\bin\Debug\netcoreapp2.0\p18_SequenceOfCommands.dll
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p18_SequenceOfCommands\bin\Debug\netcoreapp2.0\p18_SequenceOfCommands.pdb
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p18_SequenceOfCommands\obj\Debug\netcoreapp2.0\p18_SequenceOfCommands.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p18_SequenceOfCommands\obj\Debug\netcoreapp2.0\p18_SequenceOfCommands.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p18_SequenceOfCommands\obj\Debug\netcoreapp2.0\p18_SequenceOfCommands.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p18_SequenceOfCommands\obj\Debug\netcoreapp2.0\p18_SequenceOfCommands.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p18_SequenceOfCommands\obj\Debug\netcoreapp2.0\p18_SequenceOfCommands.dll
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p18_SequenceOfCommands\obj\Debug\netcoreapp2.0\p18_SequenceOfCommands.pdb

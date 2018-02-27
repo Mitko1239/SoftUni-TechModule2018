@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\C#\ArraysExercises\p10_PairsByDifference\bin\Debug\netcoreapp2.0\p10_PairsByDifference.deps.json
+D:\Projects\Visual Studio\C#\ArraysExercises\p10_PairsByDifference\bin\Debug\netcoreapp2.0\p10_PairsByDifference.runtimeconfig.json
+D:\Projects\Visual Studio\C#\ArraysExercises\p10_PairsByDifference\bin\Debug\netcoreapp2.0\p10_PairsByDifference.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\ArraysExercises\p10_PairsByDifference\bin\Debug\netcoreapp2.0\p10_PairsByDifference.dll
+D:\Projects\Visual Studio\C#\ArraysExercises\p10_PairsByDifference\bin\Debug\netcoreapp2.0\p10_PairsByDifference.pdb
+D:\Projects\Visual Studio\C#\ArraysExercises\p10_PairsByDifference\obj\Debug\netcoreapp2.0\p10_PairsByDifference.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\C#\ArraysExercises\p10_PairsByDifference\obj\Debug\netcoreapp2.0\p10_PairsByDifference.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\ArraysExercises\p10_PairsByDifference\obj\Debug\netcoreapp2.0\p10_PairsByDifference.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\ArraysExercises\p10_PairsByDifference\obj\Debug\netcoreapp2.0\p10_PairsByDifference.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\ArraysExercises\p10_PairsByDifference\obj\Debug\netcoreapp2.0\p10_PairsByDifference.dll
+D:\Projects\Visual Studio\C#\ArraysExercises\p10_PairsByDifference\obj\Debug\netcoreapp2.0\p10_PairsByDifference.pdb

@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\C#\ObjectsAndClasses\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Projects\Visual Studio\C#\ObjectsAndClasses\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Projects\Visual Studio\C#\ObjectsAndClasses\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Projects\Visual Studio\C#\ObjectsAndClasses\WindowsFormsApp1\bin\Debug\Nakov.TurtleGraphics.dll
+D:\Projects\Visual Studio\C#\ObjectsAndClasses\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\C#\ObjectsAndClasses\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Projects\Visual Studio\C#\ObjectsAndClasses\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Projects\Visual Studio\C#\ObjectsAndClasses\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\Projects\Visual Studio\C#\ObjectsAndClasses\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\ObjectsAndClasses\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Projects\Visual Studio\C#\ObjectsAndClasses\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

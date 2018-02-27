@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p08_EmployeeData\bin\Debug\netcoreapp2.0\p08_EmployeeData.deps.json
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p08_EmployeeData\bin\Debug\netcoreapp2.0\p08_EmployeeData.runtimeconfig.json
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p08_EmployeeData\bin\Debug\netcoreapp2.0\p08_EmployeeData.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p08_EmployeeData\bin\Debug\netcoreapp2.0\p08_EmployeeData.dll
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p08_EmployeeData\bin\Debug\netcoreapp2.0\p08_EmployeeData.pdb
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p08_EmployeeData\obj\Debug\netcoreapp2.0\p08_EmployeeData.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p08_EmployeeData\obj\Debug\netcoreapp2.0\p08_EmployeeData.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p08_EmployeeData\obj\Debug\netcoreapp2.0\p08_EmployeeData.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p08_EmployeeData\obj\Debug\netcoreapp2.0\p08_EmployeeData.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p08_EmployeeData\obj\Debug\netcoreapp2.0\p08_EmployeeData.dll
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p08_EmployeeData\obj\Debug\netcoreapp2.0\p08_EmployeeData.pdb

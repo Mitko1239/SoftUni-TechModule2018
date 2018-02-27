@@ -1,0 +1,11 @@
+D:\Projects\GitHub\SoftUni-TechModule2018\FilesAndDirectoriesExercises\p02_IndexOfLetters\bin\Debug\netcoreapp2.0\p02_IndexOfLetters.deps.json
+D:\Projects\GitHub\SoftUni-TechModule2018\FilesAndDirectoriesExercises\p02_IndexOfLetters\bin\Debug\netcoreapp2.0\p02_IndexOfLetters.runtimeconfig.json
+D:\Projects\GitHub\SoftUni-TechModule2018\FilesAndDirectoriesExercises\p02_IndexOfLetters\bin\Debug\netcoreapp2.0\p02_IndexOfLetters.runtimeconfig.dev.json
+D:\Projects\GitHub\SoftUni-TechModule2018\FilesAndDirectoriesExercises\p02_IndexOfLetters\bin\Debug\netcoreapp2.0\p02_IndexOfLetters.dll
+D:\Projects\GitHub\SoftUni-TechModule2018\FilesAndDirectoriesExercises\p02_IndexOfLetters\bin\Debug\netcoreapp2.0\p02_IndexOfLetters.pdb
+D:\Projects\GitHub\SoftUni-TechModule2018\FilesAndDirectoriesExercises\p02_IndexOfLetters\obj\Debug\netcoreapp2.0\p02_IndexOfLetters.csprojResolveAssemblyReference.cache
+D:\Projects\GitHub\SoftUni-TechModule2018\FilesAndDirectoriesExercises\p02_IndexOfLetters\obj\Debug\netcoreapp2.0\p02_IndexOfLetters.csproj.CoreCompileInputs.cache
+D:\Projects\GitHub\SoftUni-TechModule2018\FilesAndDirectoriesExercises\p02_IndexOfLetters\obj\Debug\netcoreapp2.0\p02_IndexOfLetters.AssemblyInfoInputs.cache
+D:\Projects\GitHub\SoftUni-TechModule2018\FilesAndDirectoriesExercises\p02_IndexOfLetters\obj\Debug\netcoreapp2.0\p02_IndexOfLetters.AssemblyInfo.cs
+D:\Projects\GitHub\SoftUni-TechModule2018\FilesAndDirectoriesExercises\p02_IndexOfLetters\obj\Debug\netcoreapp2.0\p02_IndexOfLetters.dll
+D:\Projects\GitHub\SoftUni-TechModule2018\FilesAndDirectoriesExercises\p02_IndexOfLetters\obj\Debug\netcoreapp2.0\p02_IndexOfLetters.pdb

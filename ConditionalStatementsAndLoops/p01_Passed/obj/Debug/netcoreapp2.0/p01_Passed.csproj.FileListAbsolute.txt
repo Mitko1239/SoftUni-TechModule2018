@@ -1,0 +1,11 @@
+D:\Projects\GitHub\SoftUni-TechModule2018\ConditionalStatementsAndLoops\p01_Passed\bin\Debug\netcoreapp2.0\p01_Passed.deps.json
+D:\Projects\GitHub\SoftUni-TechModule2018\ConditionalStatementsAndLoops\p01_Passed\bin\Debug\netcoreapp2.0\p01_Passed.runtimeconfig.json
+D:\Projects\GitHub\SoftUni-TechModule2018\ConditionalStatementsAndLoops\p01_Passed\bin\Debug\netcoreapp2.0\p01_Passed.runtimeconfig.dev.json
+D:\Projects\GitHub\SoftUni-TechModule2018\ConditionalStatementsAndLoops\p01_Passed\bin\Debug\netcoreapp2.0\p01_Passed.dll
+D:\Projects\GitHub\SoftUni-TechModule2018\ConditionalStatementsAndLoops\p01_Passed\bin\Debug\netcoreapp2.0\p01_Passed.pdb
+D:\Projects\GitHub\SoftUni-TechModule2018\ConditionalStatementsAndLoops\p01_Passed\obj\Debug\netcoreapp2.0\p01_Passed.csprojResolveAssemblyReference.cache
+D:\Projects\GitHub\SoftUni-TechModule2018\ConditionalStatementsAndLoops\p01_Passed\obj\Debug\netcoreapp2.0\p01_Passed.csproj.CoreCompileInputs.cache
+D:\Projects\GitHub\SoftUni-TechModule2018\ConditionalStatementsAndLoops\p01_Passed\obj\Debug\netcoreapp2.0\p01_Passed.AssemblyInfoInputs.cache
+D:\Projects\GitHub\SoftUni-TechModule2018\ConditionalStatementsAndLoops\p01_Passed\obj\Debug\netcoreapp2.0\p01_Passed.AssemblyInfo.cs
+D:\Projects\GitHub\SoftUni-TechModule2018\ConditionalStatementsAndLoops\p01_Passed\obj\Debug\netcoreapp2.0\p01_Passed.dll
+D:\Projects\GitHub\SoftUni-TechModule2018\ConditionalStatementsAndLoops\p01_Passed\obj\Debug\netcoreapp2.0\p01_Passed.pdb

@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\C#\ObjectsAndClasses\Random\obj\Debug\netcoreapp2.0\RandomDemo.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\C#\ObjectsAndClasses\Random\obj\Debug\netcoreapp2.0\RandomDemo.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\ObjectsAndClasses\Random\obj\Debug\netcoreapp2.0\RandomDemo.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\ObjectsAndClasses\Random\obj\Debug\netcoreapp2.0\RandomDemo.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\ObjectsAndClasses\Random\bin\Debug\netcoreapp2.0\RandomDemo.deps.json
+D:\Projects\Visual Studio\C#\ObjectsAndClasses\Random\bin\Debug\netcoreapp2.0\RandomDemo.runtimeconfig.json
+D:\Projects\Visual Studio\C#\ObjectsAndClasses\Random\bin\Debug\netcoreapp2.0\RandomDemo.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\ObjectsAndClasses\Random\bin\Debug\netcoreapp2.0\RandomDemo.dll
+D:\Projects\Visual Studio\C#\ObjectsAndClasses\Random\bin\Debug\netcoreapp2.0\RandomDemo.pdb
+D:\Projects\Visual Studio\C#\ObjectsAndClasses\Random\obj\Debug\netcoreapp2.0\RandomDemo.dll
+D:\Projects\Visual Studio\C#\ObjectsAndClasses\Random\obj\Debug\netcoreapp2.0\RandomDemo.pdb

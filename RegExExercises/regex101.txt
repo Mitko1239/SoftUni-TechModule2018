@@ -1,0 +1,80 @@
+// Zad.6
+
+(^[A-Za-z][\w]{2,24})
+ds3bhj y1ter/wfsdg 1nh_jgf ds2c_vbg\4htref \ asdadbahdsgdjahdgahdgadadgjadjaadadahsdaksdhadahdahdhjkashkjhdadasdadjadkahdhsak
+
+
+
+
+// Zad.5
+([A-Za-z]+)([<\|\\])(.*)([<\|\\])([A-Za-z]+)
+start(.*?)end
+
+start<213asfaas|end
+saaastarthelloendsdarstartFromTheOtherenddvsefdsfstartSideend
+
+
+
+
+// Zad. 4
+([A-Z]{2})([0-9]+\.[0-9]{1,2})([A-Za-z]+)\|
+
+PB23.41Rainy|ASDASD
+SDASCA20.21sUNNY|SDASD
+asdaCA22.5rainy|sada
+CA23.41cloydy
+
+invalidKA31.41|sunny|
+validCA12.41Rainy|absad
+gfASFasASPA31.21cloudy|asd
+YA21.51sunny|
+sadL21.41rainy|adas
+
+end
+
+
+
+
+// Zad. 3
+\|<([\w]{9})([\w]{0,7})
+
+GreatBigSea|<uglyStuffHawaii|<boriiiingKilauea
+|>invalid|<beach|noMoreCameras
+
+
+
+
+// Zad.2
+\bto\b
+
+to
+Welcome to SoftUni! You will learn programming, algorithms, problem solving and software technologies. You need to allocate for study 20-30 hours weekly. Good luck! I am fan of Motorhead. To be or not to be - that is the question. TO DO OR NOT?
+
+
+
+
+// Zad.1
+(^|(?<=\s))([a-z0-9]+)([_\.-]?[a-z0-9])*@([a-z0-9])+([-.][a-z0-9]*)([a-z0-9]+)([-.][a-z0-9]+)*
+
+undefined
+misho@mail.bg
+dimitarcho1@gmail.com
+ivan_ivanov_petrov@gmail.com
+
+info@softuni-bulgaria.org
+kiki@hotmail.co.uk
+no-reply@github.com
+s.peterson@mail.uu.net
+info-bg@software-university.software.academy
+
+--123@gmail.com
+…@mail.bg
+.info@info.info
+_steve@yahoo.cn
+mike@helloworld
+mike@.unknown.soft.
+s.johnson@invalid-
+
+Please contact us at: support@github.com.
+Just send email to s.miller@mit.edu and j.hopking@york.ac.uk for more information.
+Many users @ SoftUni confuse email addresses. We @ Softuni.BG provide high-quality training @ home or @ class. –- steve.parker@softuni.de.

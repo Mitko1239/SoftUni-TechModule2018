@@ -1,0 +1,10 @@
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p14_IntToHexAndBinary\bin\Debug\netcoreapp2.0\p14_IntToHexAndBinary.deps.json
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p14_IntToHexAndBinary\bin\Debug\netcoreapp2.0\p14_IntToHexAndBinary.runtimeconfig.json
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p14_IntToHexAndBinary\bin\Debug\netcoreapp2.0\p14_IntToHexAndBinary.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p14_IntToHexAndBinary\bin\Debug\netcoreapp2.0\p14_IntToHexAndBinary.dll
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p14_IntToHexAndBinary\bin\Debug\netcoreapp2.0\p14_IntToHexAndBinary.pdb
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p14_IntToHexAndBinary\obj\Debug\netcoreapp2.0\p14_IntToHexAndBinary.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p14_IntToHexAndBinary\obj\Debug\netcoreapp2.0\p14_IntToHexAndBinary.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p14_IntToHexAndBinary\obj\Debug\netcoreapp2.0\p14_IntToHexAndBinary.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p14_IntToHexAndBinary\obj\Debug\netcoreapp2.0\p14_IntToHexAndBinary.dll
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p14_IntToHexAndBinary\obj\Debug\netcoreapp2.0\p14_IntToHexAndBinary.pdb

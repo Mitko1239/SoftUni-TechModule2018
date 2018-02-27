@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p13_VowelOrDigit\bin\Debug\netcoreapp2.0\p13_VowelOrDigit.deps.json
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p13_VowelOrDigit\bin\Debug\netcoreapp2.0\p13_VowelOrDigit.runtimeconfig.json
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p13_VowelOrDigit\bin\Debug\netcoreapp2.0\p13_VowelOrDigit.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p13_VowelOrDigit\bin\Debug\netcoreapp2.0\p13_VowelOrDigit.dll
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p13_VowelOrDigit\bin\Debug\netcoreapp2.0\p13_VowelOrDigit.pdb
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p13_VowelOrDigit\obj\Debug\netcoreapp2.0\p13_VowelOrDigit.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p13_VowelOrDigit\obj\Debug\netcoreapp2.0\p13_VowelOrDigit.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p13_VowelOrDigit\obj\Debug\netcoreapp2.0\p13_VowelOrDigit.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p13_VowelOrDigit\obj\Debug\netcoreapp2.0\p13_VowelOrDigit.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p13_VowelOrDigit\obj\Debug\netcoreapp2.0\p13_VowelOrDigit.dll
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p13_VowelOrDigit\obj\Debug\netcoreapp2.0\p13_VowelOrDigit.pdb

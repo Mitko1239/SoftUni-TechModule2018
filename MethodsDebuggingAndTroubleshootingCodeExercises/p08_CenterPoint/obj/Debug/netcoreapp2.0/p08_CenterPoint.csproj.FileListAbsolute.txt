@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p08_CenterPoint\bin\Debug\netcoreapp2.0\p08_CenterPoint.deps.json
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p08_CenterPoint\bin\Debug\netcoreapp2.0\p08_CenterPoint.runtimeconfig.json
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p08_CenterPoint\bin\Debug\netcoreapp2.0\p08_CenterPoint.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p08_CenterPoint\bin\Debug\netcoreapp2.0\p08_CenterPoint.dll
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p08_CenterPoint\bin\Debug\netcoreapp2.0\p08_CenterPoint.pdb
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p08_CenterPoint\obj\Debug\netcoreapp2.0\p08_CenterPoint.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p08_CenterPoint\obj\Debug\netcoreapp2.0\p08_CenterPoint.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p08_CenterPoint\obj\Debug\netcoreapp2.0\p08_CenterPoint.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p08_CenterPoint\obj\Debug\netcoreapp2.0\p08_CenterPoint.dll
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p08_CenterPoint\obj\Debug\netcoreapp2.0\p08_CenterPoint.pdb
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p08_CenterPoint\obj\Debug\netcoreapp2.0\p08_CenterPoint.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\C#\DataTypesAndVariables\p05_SpecialNumbers\bin\Debug\netcoreapp2.0\p05_SpecialNumbers.deps.json
+D:\Projects\Visual Studio\C#\DataTypesAndVariables\p05_SpecialNumbers\bin\Debug\netcoreapp2.0\p05_SpecialNumbers.runtimeconfig.json
+D:\Projects\Visual Studio\C#\DataTypesAndVariables\p05_SpecialNumbers\bin\Debug\netcoreapp2.0\p05_SpecialNumbers.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\DataTypesAndVariables\p05_SpecialNumbers\bin\Debug\netcoreapp2.0\p05_SpecialNumbers.dll
+D:\Projects\Visual Studio\C#\DataTypesAndVariables\p05_SpecialNumbers\bin\Debug\netcoreapp2.0\p05_SpecialNumbers.pdb
+D:\Projects\Visual Studio\C#\DataTypesAndVariables\p05_SpecialNumbers\obj\Debug\netcoreapp2.0\p05_SpecialNumbers.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\C#\DataTypesAndVariables\p05_SpecialNumbers\obj\Debug\netcoreapp2.0\p05_SpecialNumbers.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\DataTypesAndVariables\p05_SpecialNumbers\obj\Debug\netcoreapp2.0\p05_SpecialNumbers.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\DataTypesAndVariables\p05_SpecialNumbers\obj\Debug\netcoreapp2.0\p05_SpecialNumbers.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\DataTypesAndVariables\p05_SpecialNumbers\obj\Debug\netcoreapp2.0\p05_SpecialNumbers.dll
+D:\Projects\Visual Studio\C#\DataTypesAndVariables\p05_SpecialNumbers\obj\Debug\netcoreapp2.0\p05_SpecialNumbers.pdb

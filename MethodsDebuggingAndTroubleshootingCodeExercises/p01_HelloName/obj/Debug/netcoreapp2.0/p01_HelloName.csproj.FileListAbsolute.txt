@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p01_HelloName\bin\Debug\netcoreapp2.0\p01_HelloName.deps.json
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p01_HelloName\bin\Debug\netcoreapp2.0\p01_HelloName.runtimeconfig.json
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p01_HelloName\bin\Debug\netcoreapp2.0\p01_HelloName.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p01_HelloName\bin\Debug\netcoreapp2.0\p01_HelloName.dll
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p01_HelloName\bin\Debug\netcoreapp2.0\p01_HelloName.pdb
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p01_HelloName\obj\Debug\netcoreapp2.0\p01_HelloName.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p01_HelloName\obj\Debug\netcoreapp2.0\p01_HelloName.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p01_HelloName\obj\Debug\netcoreapp2.0\p01_HelloName.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p01_HelloName\obj\Debug\netcoreapp2.0\p01_HelloName.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p01_HelloName\obj\Debug\netcoreapp2.0\p01_HelloName.dll
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p01_HelloName\obj\Debug\netcoreapp2.0\p01_HelloName.pdb

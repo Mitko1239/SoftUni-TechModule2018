@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\C#\IntroAndBasicSyntaxExercises\5.CharacterStats\obj\Debug\netcoreapp2.0\5.CharacterStats.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\C#\IntroAndBasicSyntaxExercises\5.CharacterStats\obj\Debug\netcoreapp2.0\5.CharacterStats.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\IntroAndBasicSyntaxExercises\5.CharacterStats\obj\Debug\netcoreapp2.0\5.CharacterStats.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\IntroAndBasicSyntaxExercises\5.CharacterStats\obj\Debug\netcoreapp2.0\5.CharacterStats.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\IntroAndBasicSyntaxExercises\5.CharacterStats\bin\Debug\netcoreapp2.0\5.CharacterStats.deps.json
+D:\Projects\Visual Studio\C#\IntroAndBasicSyntaxExercises\5.CharacterStats\bin\Debug\netcoreapp2.0\5.CharacterStats.runtimeconfig.json
+D:\Projects\Visual Studio\C#\IntroAndBasicSyntaxExercises\5.CharacterStats\bin\Debug\netcoreapp2.0\5.CharacterStats.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\IntroAndBasicSyntaxExercises\5.CharacterStats\bin\Debug\netcoreapp2.0\5.CharacterStats.dll
+D:\Projects\Visual Studio\C#\IntroAndBasicSyntaxExercises\5.CharacterStats\bin\Debug\netcoreapp2.0\5.CharacterStats.pdb
+D:\Projects\Visual Studio\C#\IntroAndBasicSyntaxExercises\5.CharacterStats\obj\Debug\netcoreapp2.0\5.CharacterStats.dll
+D:\Projects\Visual Studio\C#\IntroAndBasicSyntaxExercises\5.CharacterStats\obj\Debug\netcoreapp2.0\5.CharacterStats.pdb

@@ -1,0 +1,10 @@
+D:\Projects\Visual Studio\C#\DataTypesAndVariables\p02_CircleArea\bin\Debug\netcoreapp2.0\p02_CircleArea.deps.json
+D:\Projects\Visual Studio\C#\DataTypesAndVariables\p02_CircleArea\bin\Debug\netcoreapp2.0\p02_CircleArea.runtimeconfig.json
+D:\Projects\Visual Studio\C#\DataTypesAndVariables\p02_CircleArea\bin\Debug\netcoreapp2.0\p02_CircleArea.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\DataTypesAndVariables\p02_CircleArea\bin\Debug\netcoreapp2.0\p02_CircleArea.dll
+D:\Projects\Visual Studio\C#\DataTypesAndVariables\p02_CircleArea\bin\Debug\netcoreapp2.0\p02_CircleArea.pdb
+D:\Projects\Visual Studio\C#\DataTypesAndVariables\p02_CircleArea\obj\Debug\netcoreapp2.0\p02_CircleArea.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\DataTypesAndVariables\p02_CircleArea\obj\Debug\netcoreapp2.0\p02_CircleArea.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\DataTypesAndVariables\p02_CircleArea\obj\Debug\netcoreapp2.0\p02_CircleArea.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\DataTypesAndVariables\p02_CircleArea\obj\Debug\netcoreapp2.0\p02_CircleArea.dll
+D:\Projects\Visual Studio\C#\DataTypesAndVariables\p02_CircleArea\obj\Debug\netcoreapp2.0\p02_CircleArea.pdb

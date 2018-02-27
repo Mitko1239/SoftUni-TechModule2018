@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\C#\DictionariesExercises\p10b\bin\Debug\netcoreapp2.0\p10b.deps.json
+D:\Projects\Visual Studio\C#\DictionariesExercises\p10b\bin\Debug\netcoreapp2.0\p10b.runtimeconfig.json
+D:\Projects\Visual Studio\C#\DictionariesExercises\p10b\bin\Debug\netcoreapp2.0\p10b.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\DictionariesExercises\p10b\bin\Debug\netcoreapp2.0\p10b.dll
+D:\Projects\Visual Studio\C#\DictionariesExercises\p10b\bin\Debug\netcoreapp2.0\p10b.pdb
+D:\Projects\Visual Studio\C#\DictionariesExercises\p10b\obj\Debug\netcoreapp2.0\p10b.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\C#\DictionariesExercises\p10b\obj\Debug\netcoreapp2.0\p10b.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\DictionariesExercises\p10b\obj\Debug\netcoreapp2.0\p10b.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\DictionariesExercises\p10b\obj\Debug\netcoreapp2.0\p10b.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\DictionariesExercises\p10b\obj\Debug\netcoreapp2.0\p10b.dll
+D:\Projects\Visual Studio\C#\DictionariesExercises\p10b\obj\Debug\netcoreapp2.0\p10b.pdb

@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\C#\Lists\p04_SplitByWordCasing\bin\Debug\netcoreapp2.0\p04_SplitByWordCasing.deps.json
+D:\Projects\Visual Studio\C#\Lists\p04_SplitByWordCasing\bin\Debug\netcoreapp2.0\p04_SplitByWordCasing.runtimeconfig.json
+D:\Projects\Visual Studio\C#\Lists\p04_SplitByWordCasing\bin\Debug\netcoreapp2.0\p04_SplitByWordCasing.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\Lists\p04_SplitByWordCasing\bin\Debug\netcoreapp2.0\p04_SplitByWordCasing.dll
+D:\Projects\Visual Studio\C#\Lists\p04_SplitByWordCasing\bin\Debug\netcoreapp2.0\p04_SplitByWordCasing.pdb
+D:\Projects\Visual Studio\C#\Lists\p04_SplitByWordCasing\obj\Debug\netcoreapp2.0\p04_SplitByWordCasing.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\C#\Lists\p04_SplitByWordCasing\obj\Debug\netcoreapp2.0\p04_SplitByWordCasing.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\Lists\p04_SplitByWordCasing\obj\Debug\netcoreapp2.0\p04_SplitByWordCasing.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\Lists\p04_SplitByWordCasing\obj\Debug\netcoreapp2.0\p04_SplitByWordCasing.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\Lists\p04_SplitByWordCasing\obj\Debug\netcoreapp2.0\p04_SplitByWordCasing.dll
+D:\Projects\Visual Studio\C#\Lists\p04_SplitByWordCasing\obj\Debug\netcoreapp2.0\p04_SplitByWordCasing.pdb

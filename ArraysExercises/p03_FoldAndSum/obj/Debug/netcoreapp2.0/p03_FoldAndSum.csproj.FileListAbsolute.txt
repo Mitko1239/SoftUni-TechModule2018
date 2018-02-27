@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\C#\ArraysExercises\p03_FoldAndSum\bin\Debug\netcoreapp2.0\p03_FoldAndSum.deps.json
+D:\Projects\Visual Studio\C#\ArraysExercises\p03_FoldAndSum\bin\Debug\netcoreapp2.0\p03_FoldAndSum.runtimeconfig.json
+D:\Projects\Visual Studio\C#\ArraysExercises\p03_FoldAndSum\bin\Debug\netcoreapp2.0\p03_FoldAndSum.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\ArraysExercises\p03_FoldAndSum\bin\Debug\netcoreapp2.0\p03_FoldAndSum.dll
+D:\Projects\Visual Studio\C#\ArraysExercises\p03_FoldAndSum\bin\Debug\netcoreapp2.0\p03_FoldAndSum.pdb
+D:\Projects\Visual Studio\C#\ArraysExercises\p03_FoldAndSum\obj\Debug\netcoreapp2.0\p03_FoldAndSum.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\C#\ArraysExercises\p03_FoldAndSum\obj\Debug\netcoreapp2.0\p03_FoldAndSum.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\ArraysExercises\p03_FoldAndSum\obj\Debug\netcoreapp2.0\p03_FoldAndSum.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\ArraysExercises\p03_FoldAndSum\obj\Debug\netcoreapp2.0\p03_FoldAndSum.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\ArraysExercises\p03_FoldAndSum\obj\Debug\netcoreapp2.0\p03_FoldAndSum.dll
+D:\Projects\Visual Studio\C#\ArraysExercises\p03_FoldAndSum\obj\Debug\netcoreapp2.0\p03_FoldAndSum.pdb

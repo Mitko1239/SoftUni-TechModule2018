@@ -1,0 +1,10 @@
+D:\Projects\Visual Studio\C#\ObjectsAndClasses\DefiningClasses\bin\Debug\netcoreapp2.0\DefiningClasses.deps.json
+D:\Projects\Visual Studio\C#\ObjectsAndClasses\DefiningClasses\bin\Debug\netcoreapp2.0\DefiningClasses.runtimeconfig.json
+D:\Projects\Visual Studio\C#\ObjectsAndClasses\DefiningClasses\bin\Debug\netcoreapp2.0\DefiningClasses.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\ObjectsAndClasses\DefiningClasses\bin\Debug\netcoreapp2.0\DefiningClasses.dll
+D:\Projects\Visual Studio\C#\ObjectsAndClasses\DefiningClasses\bin\Debug\netcoreapp2.0\DefiningClasses.pdb
+D:\Projects\Visual Studio\C#\ObjectsAndClasses\DefiningClasses\obj\Debug\netcoreapp2.0\DefiningClasses.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\ObjectsAndClasses\DefiningClasses\obj\Debug\netcoreapp2.0\DefiningClasses.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\ObjectsAndClasses\DefiningClasses\obj\Debug\netcoreapp2.0\DefiningClasses.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\ObjectsAndClasses\DefiningClasses\obj\Debug\netcoreapp2.0\DefiningClasses.dll
+D:\Projects\Visual Studio\C#\ObjectsAndClasses\DefiningClasses\obj\Debug\netcoreapp2.0\DefiningClasses.pdb

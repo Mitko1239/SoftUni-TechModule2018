@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\C#\ObjectsAndClassesExercises\p04\bin\Debug\netcoreapp2.0\p04.deps.json
+D:\Projects\Visual Studio\C#\ObjectsAndClassesExercises\p04\bin\Debug\netcoreapp2.0\p04.runtimeconfig.json
+D:\Projects\Visual Studio\C#\ObjectsAndClassesExercises\p04\bin\Debug\netcoreapp2.0\p04.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\ObjectsAndClassesExercises\p04\bin\Debug\netcoreapp2.0\p04.dll
+D:\Projects\Visual Studio\C#\ObjectsAndClassesExercises\p04\bin\Debug\netcoreapp2.0\p04.pdb
+D:\Projects\Visual Studio\C#\ObjectsAndClassesExercises\p04\obj\Debug\netcoreapp2.0\p04.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\C#\ObjectsAndClassesExercises\p04\obj\Debug\netcoreapp2.0\p04.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\ObjectsAndClassesExercises\p04\obj\Debug\netcoreapp2.0\p04.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\ObjectsAndClassesExercises\p04\obj\Debug\netcoreapp2.0\p04.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\ObjectsAndClassesExercises\p04\obj\Debug\netcoreapp2.0\p04.dll
+D:\Projects\Visual Studio\C#\ObjectsAndClassesExercises\p04\obj\Debug\netcoreapp2.0\p04.pdb

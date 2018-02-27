@@ -1,0 +1,10 @@
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p15_Substring\bin\Debug\netcoreapp2.0\p15_Substring.deps.json
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p15_Substring\bin\Debug\netcoreapp2.0\p15_Substring.runtimeconfig.json
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p15_Substring\bin\Debug\netcoreapp2.0\p15_Substring.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p15_Substring\bin\Debug\netcoreapp2.0\p15_Substring.dll
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p15_Substring\bin\Debug\netcoreapp2.0\p15_Substring.pdb
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p15_Substring\obj\Debug\netcoreapp2.0\p15_Substring.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p15_Substring\obj\Debug\netcoreapp2.0\p15_Substring.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p15_Substring\obj\Debug\netcoreapp2.0\p15_Substring.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p15_Substring\obj\Debug\netcoreapp2.0\p15_Substring.dll
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p15_Substring\obj\Debug\netcoreapp2.0\p15_Substring.pdb

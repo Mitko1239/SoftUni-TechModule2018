@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p04_NumbersInReverseOrder\bin\Debug\netcoreapp2.0\p04_NumbersInReverseOrder.deps.json
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p04_NumbersInReverseOrder\bin\Debug\netcoreapp2.0\p04_NumbersInReverseOrder.runtimeconfig.json
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p04_NumbersInReverseOrder\bin\Debug\netcoreapp2.0\p04_NumbersInReverseOrder.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p04_NumbersInReverseOrder\bin\Debug\netcoreapp2.0\p04_NumbersInReverseOrder.dll
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p04_NumbersInReverseOrder\bin\Debug\netcoreapp2.0\p04_NumbersInReverseOrder.pdb
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p04_NumbersInReverseOrder\obj\Debug\netcoreapp2.0\p04_NumbersInReverseOrder.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p04_NumbersInReverseOrder\obj\Debug\netcoreapp2.0\p04_NumbersInReverseOrder.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p04_NumbersInReverseOrder\obj\Debug\netcoreapp2.0\p04_NumbersInReverseOrder.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p04_NumbersInReverseOrder\obj\Debug\netcoreapp2.0\p04_NumbersInReverseOrder.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p04_NumbersInReverseOrder\obj\Debug\netcoreapp2.0\p04_NumbersInReverseOrder.dll
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p04_NumbersInReverseOrder\obj\Debug\netcoreapp2.0\p04_NumbersInReverseOrder.pdb

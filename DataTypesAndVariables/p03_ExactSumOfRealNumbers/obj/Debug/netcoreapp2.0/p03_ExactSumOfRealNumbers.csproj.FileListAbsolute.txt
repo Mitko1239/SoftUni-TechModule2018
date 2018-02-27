@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\C#\DataTypesAndVariables\p03_ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\p03_ExactSumOfRealNumbers.deps.json
+D:\Projects\Visual Studio\C#\DataTypesAndVariables\p03_ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\p03_ExactSumOfRealNumbers.runtimeconfig.json
+D:\Projects\Visual Studio\C#\DataTypesAndVariables\p03_ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\p03_ExactSumOfRealNumbers.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\DataTypesAndVariables\p03_ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\p03_ExactSumOfRealNumbers.dll
+D:\Projects\Visual Studio\C#\DataTypesAndVariables\p03_ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\p03_ExactSumOfRealNumbers.pdb
+D:\Projects\Visual Studio\C#\DataTypesAndVariables\p03_ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\p03_ExactSumOfRealNumbers.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\C#\DataTypesAndVariables\p03_ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\p03_ExactSumOfRealNumbers.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\DataTypesAndVariables\p03_ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\p03_ExactSumOfRealNumbers.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\DataTypesAndVariables\p03_ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\p03_ExactSumOfRealNumbers.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\DataTypesAndVariables\p03_ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\p03_ExactSumOfRealNumbers.dll
+D:\Projects\Visual Studio\C#\DataTypesAndVariables\p03_ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\p03_ExactSumOfRealNumbers.pdb

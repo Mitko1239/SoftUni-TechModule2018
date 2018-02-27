@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCode\p01_BlankReceipt\bin\Release\netcoreapp2.0\p01_BlankReceipt.deps.json
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCode\p01_BlankReceipt\bin\Release\netcoreapp2.0\p01_BlankReceipt.runtimeconfig.json
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCode\p01_BlankReceipt\bin\Release\netcoreapp2.0\p01_BlankReceipt.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCode\p01_BlankReceipt\bin\Release\netcoreapp2.0\p01_BlankReceipt.dll
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCode\p01_BlankReceipt\bin\Release\netcoreapp2.0\p01_BlankReceipt.pdb
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCode\p01_BlankReceipt\obj\Release\netcoreapp2.0\p01_BlankReceipt.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCode\p01_BlankReceipt\obj\Release\netcoreapp2.0\p01_BlankReceipt.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCode\p01_BlankReceipt\obj\Release\netcoreapp2.0\p01_BlankReceipt.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCode\p01_BlankReceipt\obj\Release\netcoreapp2.0\p01_BlankReceipt.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCode\p01_BlankReceipt\obj\Release\netcoreapp2.0\p01_BlankReceipt.dll
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCode\p01_BlankReceipt\obj\Release\netcoreapp2.0\p01_BlankReceipt.pdb

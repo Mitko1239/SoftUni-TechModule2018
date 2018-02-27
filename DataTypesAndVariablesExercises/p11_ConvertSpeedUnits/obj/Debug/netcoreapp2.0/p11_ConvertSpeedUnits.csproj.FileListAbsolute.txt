@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p11_ConvertSpeedUnits\bin\Debug\netcoreapp2.0\p11_ConvertSpeedUnits.deps.json
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p11_ConvertSpeedUnits\bin\Debug\netcoreapp2.0\p11_ConvertSpeedUnits.runtimeconfig.json
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p11_ConvertSpeedUnits\bin\Debug\netcoreapp2.0\p11_ConvertSpeedUnits.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p11_ConvertSpeedUnits\bin\Debug\netcoreapp2.0\p11_ConvertSpeedUnits.dll
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p11_ConvertSpeedUnits\bin\Debug\netcoreapp2.0\p11_ConvertSpeedUnits.pdb
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p11_ConvertSpeedUnits\obj\Debug\netcoreapp2.0\p11_ConvertSpeedUnits.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p11_ConvertSpeedUnits\obj\Debug\netcoreapp2.0\p11_ConvertSpeedUnits.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p11_ConvertSpeedUnits\obj\Debug\netcoreapp2.0\p11_ConvertSpeedUnits.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p11_ConvertSpeedUnits\obj\Debug\netcoreapp2.0\p11_ConvertSpeedUnits.dll
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p11_ConvertSpeedUnits\obj\Debug\netcoreapp2.0\p11_ConvertSpeedUnits.pdb
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p11_ConvertSpeedUnits\obj\Debug\netcoreapp2.0\p11_ConvertSpeedUnits.csprojResolveAssemblyReference.cache

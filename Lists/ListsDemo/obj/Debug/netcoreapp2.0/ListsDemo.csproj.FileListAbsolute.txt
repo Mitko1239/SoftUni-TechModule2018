@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\C#\Lists\ListsDemo\bin\Debug\netcoreapp2.0\ListsDemo.deps.json
+D:\Projects\Visual Studio\C#\Lists\ListsDemo\bin\Debug\netcoreapp2.0\ListsDemo.runtimeconfig.json
+D:\Projects\Visual Studio\C#\Lists\ListsDemo\bin\Debug\netcoreapp2.0\ListsDemo.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\Lists\ListsDemo\bin\Debug\netcoreapp2.0\ListsDemo.dll
+D:\Projects\Visual Studio\C#\Lists\ListsDemo\bin\Debug\netcoreapp2.0\ListsDemo.pdb
+D:\Projects\Visual Studio\C#\Lists\ListsDemo\obj\Debug\netcoreapp2.0\ListsDemo.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\C#\Lists\ListsDemo\obj\Debug\netcoreapp2.0\ListsDemo.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\Lists\ListsDemo\obj\Debug\netcoreapp2.0\ListsDemo.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\Lists\ListsDemo\obj\Debug\netcoreapp2.0\ListsDemo.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\Lists\ListsDemo\obj\Debug\netcoreapp2.0\ListsDemo.dll
+D:\Projects\Visual Studio\C#\Lists\ListsDemo\obj\Debug\netcoreapp2.0\ListsDemo.pdb

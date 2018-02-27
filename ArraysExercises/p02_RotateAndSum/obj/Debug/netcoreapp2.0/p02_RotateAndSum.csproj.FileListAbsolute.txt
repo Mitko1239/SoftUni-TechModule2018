@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\C#\ArraysExercises\p02_RotateAndSum\bin\Debug\netcoreapp2.0\p02_RotateAndSum.deps.json
+D:\Projects\Visual Studio\C#\ArraysExercises\p02_RotateAndSum\bin\Debug\netcoreapp2.0\p02_RotateAndSum.runtimeconfig.json
+D:\Projects\Visual Studio\C#\ArraysExercises\p02_RotateAndSum\bin\Debug\netcoreapp2.0\p02_RotateAndSum.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\ArraysExercises\p02_RotateAndSum\bin\Debug\netcoreapp2.0\p02_RotateAndSum.dll
+D:\Projects\Visual Studio\C#\ArraysExercises\p02_RotateAndSum\bin\Debug\netcoreapp2.0\p02_RotateAndSum.pdb
+D:\Projects\Visual Studio\C#\ArraysExercises\p02_RotateAndSum\obj\Debug\netcoreapp2.0\p02_RotateAndSum.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\C#\ArraysExercises\p02_RotateAndSum\obj\Debug\netcoreapp2.0\p02_RotateAndSum.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\ArraysExercises\p02_RotateAndSum\obj\Debug\netcoreapp2.0\p02_RotateAndSum.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\ArraysExercises\p02_RotateAndSum\obj\Debug\netcoreapp2.0\p02_RotateAndSum.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\ArraysExercises\p02_RotateAndSum\obj\Debug\netcoreapp2.0\p02_RotateAndSum.dll
+D:\Projects\Visual Studio\C#\ArraysExercises\p02_RotateAndSum\obj\Debug\netcoreapp2.0\p02_RotateAndSum.pdb

@@ -1,0 +1,20 @@
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoopsExercises\CountTheIntegers\obj\Debug\netcoreapp2.0\CountTheIntegers.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoopsExercises\CountTheIntegers\obj\Debug\netcoreapp2.0\CountTheIntegers.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoopsExercises\CountTheIntegers\obj\Debug\netcoreapp2.0\CountTheIntegers.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoopsExercises\CountTheIntegers\bin\Debug\netcoreapp2.0\CountTheIntegers.deps.json
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoopsExercises\CountTheIntegers\bin\Debug\netcoreapp2.0\CountTheIntegers.runtimeconfig.json
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoopsExercises\CountTheIntegers\bin\Debug\netcoreapp2.0\CountTheIntegers.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoopsExercises\CountTheIntegers\bin\Debug\netcoreapp2.0\CountTheIntegers.dll
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoopsExercises\CountTheIntegers\bin\Debug\netcoreapp2.0\CountTheIntegers.pdb
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoopsExercises\CountTheIntegers\obj\Debug\netcoreapp2.0\CountTheIntegers.dll
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoopsExercises\CountTheIntegers\obj\Debug\netcoreapp2.0\CountTheIntegers.pdb
+D:\Projects\GitHub\SoftUni-TechModule2018\ConditionalStatementsAndLoopsExercises\p09_CountTheIntegers\bin\Debug\netcoreapp2.0\CountTheIntegers.deps.json
+D:\Projects\GitHub\SoftUni-TechModule2018\ConditionalStatementsAndLoopsExercises\p09_CountTheIntegers\bin\Debug\netcoreapp2.0\CountTheIntegers.runtimeconfig.json
+D:\Projects\GitHub\SoftUni-TechModule2018\ConditionalStatementsAndLoopsExercises\p09_CountTheIntegers\bin\Debug\netcoreapp2.0\CountTheIntegers.runtimeconfig.dev.json
+D:\Projects\GitHub\SoftUni-TechModule2018\ConditionalStatementsAndLoopsExercises\p09_CountTheIntegers\bin\Debug\netcoreapp2.0\CountTheIntegers.dll
+D:\Projects\GitHub\SoftUni-TechModule2018\ConditionalStatementsAndLoopsExercises\p09_CountTheIntegers\bin\Debug\netcoreapp2.0\CountTheIntegers.pdb
+D:\Projects\GitHub\SoftUni-TechModule2018\ConditionalStatementsAndLoopsExercises\p09_CountTheIntegers\obj\Debug\netcoreapp2.0\CountTheIntegers.csproj.CoreCompileInputs.cache
+D:\Projects\GitHub\SoftUni-TechModule2018\ConditionalStatementsAndLoopsExercises\p09_CountTheIntegers\obj\Debug\netcoreapp2.0\CountTheIntegers.AssemblyInfoInputs.cache
+D:\Projects\GitHub\SoftUni-TechModule2018\ConditionalStatementsAndLoopsExercises\p09_CountTheIntegers\obj\Debug\netcoreapp2.0\CountTheIntegers.AssemblyInfo.cs
+D:\Projects\GitHub\SoftUni-TechModule2018\ConditionalStatementsAndLoopsExercises\p09_CountTheIntegers\obj\Debug\netcoreapp2.0\CountTheIntegers.dll
+D:\Projects\GitHub\SoftUni-TechModule2018\ConditionalStatementsAndLoopsExercises\p09_CountTheIntegers\obj\Debug\netcoreapp2.0\CountTheIntegers.pdb

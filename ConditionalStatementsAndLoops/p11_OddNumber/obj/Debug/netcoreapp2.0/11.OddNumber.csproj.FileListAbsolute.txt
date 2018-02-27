@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoops\OddNumber\bin\Debug\netcoreapp2.0\11.OddNumber.deps.json
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoops\OddNumber\bin\Debug\netcoreapp2.0\11.OddNumber.runtimeconfig.json
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoops\OddNumber\bin\Debug\netcoreapp2.0\11.OddNumber.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoops\OddNumber\bin\Debug\netcoreapp2.0\11.OddNumber.dll
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoops\OddNumber\bin\Debug\netcoreapp2.0\11.OddNumber.pdb
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoops\OddNumber\obj\Debug\netcoreapp2.0\11.OddNumber.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoops\OddNumber\obj\Debug\netcoreapp2.0\11.OddNumber.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoops\OddNumber\obj\Debug\netcoreapp2.0\11.OddNumber.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoops\OddNumber\obj\Debug\netcoreapp2.0\11.OddNumber.dll
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoops\OddNumber\obj\Debug\netcoreapp2.0\11.OddNumber.pdb
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoops\OddNumber\obj\Debug\netcoreapp2.0\11.OddNumber.csprojResolveAssemblyReference.cache

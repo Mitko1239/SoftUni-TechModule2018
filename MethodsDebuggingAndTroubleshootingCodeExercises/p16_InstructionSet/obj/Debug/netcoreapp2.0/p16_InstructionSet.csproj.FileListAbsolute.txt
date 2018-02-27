@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p16_InstructionSet\bin\Debug\netcoreapp2.0\p16_InstructionSet.deps.json
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p16_InstructionSet\bin\Debug\netcoreapp2.0\p16_InstructionSet.runtimeconfig.json
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p16_InstructionSet\bin\Debug\netcoreapp2.0\p16_InstructionSet.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p16_InstructionSet\bin\Debug\netcoreapp2.0\p16_InstructionSet.dll
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p16_InstructionSet\bin\Debug\netcoreapp2.0\p16_InstructionSet.pdb
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p16_InstructionSet\obj\Debug\netcoreapp2.0\p16_InstructionSet.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p16_InstructionSet\obj\Debug\netcoreapp2.0\p16_InstructionSet.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p16_InstructionSet\obj\Debug\netcoreapp2.0\p16_InstructionSet.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p16_InstructionSet\obj\Debug\netcoreapp2.0\p16_InstructionSet.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p16_InstructionSet\obj\Debug\netcoreapp2.0\p16_InstructionSet.dll
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p16_InstructionSet\obj\Debug\netcoreapp2.0\p16_InstructionSet.pdb

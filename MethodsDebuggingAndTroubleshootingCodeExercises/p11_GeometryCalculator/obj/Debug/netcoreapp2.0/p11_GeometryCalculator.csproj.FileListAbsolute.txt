@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p11_GeometryCalculator\bin\Debug\netcoreapp2.0\p11_GeometryCalculator.deps.json
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p11_GeometryCalculator\bin\Debug\netcoreapp2.0\p11_GeometryCalculator.runtimeconfig.json
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p11_GeometryCalculator\bin\Debug\netcoreapp2.0\p11_GeometryCalculator.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p11_GeometryCalculator\bin\Debug\netcoreapp2.0\p11_GeometryCalculator.dll
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p11_GeometryCalculator\bin\Debug\netcoreapp2.0\p11_GeometryCalculator.pdb
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p11_GeometryCalculator\obj\Debug\netcoreapp2.0\p11_GeometryCalculator.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p11_GeometryCalculator\obj\Debug\netcoreapp2.0\p11_GeometryCalculator.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p11_GeometryCalculator\obj\Debug\netcoreapp2.0\p11_GeometryCalculator.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p11_GeometryCalculator\obj\Debug\netcoreapp2.0\p11_GeometryCalculator.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p11_GeometryCalculator\obj\Debug\netcoreapp2.0\p11_GeometryCalculator.dll
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p11_GeometryCalculator\obj\Debug\netcoreapp2.0\p11_GeometryCalculator.pdb

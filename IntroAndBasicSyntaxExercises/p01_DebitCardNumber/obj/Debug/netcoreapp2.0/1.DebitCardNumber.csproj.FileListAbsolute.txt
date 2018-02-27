@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\C#\IntoAndBasicSyntaxExercises\1.DebitCardNumber\bin\Debug\netcoreapp2.0\1.DebitCardNumber.deps.json
+D:\Projects\Visual Studio\C#\IntoAndBasicSyntaxExercises\1.DebitCardNumber\bin\Debug\netcoreapp2.0\1.DebitCardNumber.runtimeconfig.json
+D:\Projects\Visual Studio\C#\IntoAndBasicSyntaxExercises\1.DebitCardNumber\bin\Debug\netcoreapp2.0\1.DebitCardNumber.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\IntoAndBasicSyntaxExercises\1.DebitCardNumber\bin\Debug\netcoreapp2.0\1.DebitCardNumber.dll
+D:\Projects\Visual Studio\C#\IntoAndBasicSyntaxExercises\1.DebitCardNumber\bin\Debug\netcoreapp2.0\1.DebitCardNumber.pdb
+D:\Projects\Visual Studio\C#\IntoAndBasicSyntaxExercises\1.DebitCardNumber\obj\Debug\netcoreapp2.0\1.DebitCardNumber.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\C#\IntoAndBasicSyntaxExercises\1.DebitCardNumber\obj\Debug\netcoreapp2.0\1.DebitCardNumber.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\IntoAndBasicSyntaxExercises\1.DebitCardNumber\obj\Debug\netcoreapp2.0\1.DebitCardNumber.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\IntoAndBasicSyntaxExercises\1.DebitCardNumber\obj\Debug\netcoreapp2.0\1.DebitCardNumber.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\IntoAndBasicSyntaxExercises\1.DebitCardNumber\obj\Debug\netcoreapp2.0\1.DebitCardNumber.dll
+D:\Projects\Visual Studio\C#\IntoAndBasicSyntaxExercises\1.DebitCardNumber\obj\Debug\netcoreapp2.0\1.DebitCardNumber.pdb

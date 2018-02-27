@@ -1,0 +1,10 @@
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p15_FastPrimeCheckerRefactor\bin\Debug\netcoreapp2.0\p15_FastPrimeCheckerRefactor.deps.json
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p15_FastPrimeCheckerRefactor\bin\Debug\netcoreapp2.0\p15_FastPrimeCheckerRefactor.runtimeconfig.json
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p15_FastPrimeCheckerRefactor\bin\Debug\netcoreapp2.0\p15_FastPrimeCheckerRefactor.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p15_FastPrimeCheckerRefactor\bin\Debug\netcoreapp2.0\p15_FastPrimeCheckerRefactor.dll
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p15_FastPrimeCheckerRefactor\bin\Debug\netcoreapp2.0\p15_FastPrimeCheckerRefactor.pdb
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p15_FastPrimeCheckerRefactor\obj\Debug\netcoreapp2.0\p15_FastPrimeCheckerRefactor.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p15_FastPrimeCheckerRefactor\obj\Debug\netcoreapp2.0\p15_FastPrimeCheckerRefactor.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p15_FastPrimeCheckerRefactor\obj\Debug\netcoreapp2.0\p15_FastPrimeCheckerRefactor.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p15_FastPrimeCheckerRefactor\obj\Debug\netcoreapp2.0\p15_FastPrimeCheckerRefactor.dll
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p15_FastPrimeCheckerRefactor\obj\Debug\netcoreapp2.0\p15_FastPrimeCheckerRefactor.pdb

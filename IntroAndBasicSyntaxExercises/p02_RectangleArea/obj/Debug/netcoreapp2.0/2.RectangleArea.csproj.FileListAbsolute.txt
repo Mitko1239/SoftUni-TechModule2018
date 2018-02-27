@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\C#\IntroAndBasicSyntaxExercises\2.RectangleArea\bin\Debug\netcoreapp2.0\2.RectangleArea.deps.json
+D:\Projects\Visual Studio\C#\IntroAndBasicSyntaxExercises\2.RectangleArea\bin\Debug\netcoreapp2.0\2.RectangleArea.runtimeconfig.json
+D:\Projects\Visual Studio\C#\IntroAndBasicSyntaxExercises\2.RectangleArea\bin\Debug\netcoreapp2.0\2.RectangleArea.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\IntroAndBasicSyntaxExercises\2.RectangleArea\bin\Debug\netcoreapp2.0\2.RectangleArea.dll
+D:\Projects\Visual Studio\C#\IntroAndBasicSyntaxExercises\2.RectangleArea\bin\Debug\netcoreapp2.0\2.RectangleArea.pdb
+D:\Projects\Visual Studio\C#\IntroAndBasicSyntaxExercises\2.RectangleArea\obj\Debug\netcoreapp2.0\2.RectangleArea.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\C#\IntroAndBasicSyntaxExercises\2.RectangleArea\obj\Debug\netcoreapp2.0\2.RectangleArea.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\IntroAndBasicSyntaxExercises\2.RectangleArea\obj\Debug\netcoreapp2.0\2.RectangleArea.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\IntroAndBasicSyntaxExercises\2.RectangleArea\obj\Debug\netcoreapp2.0\2.RectangleArea.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\IntroAndBasicSyntaxExercises\2.RectangleArea\obj\Debug\netcoreapp2.0\2.RectangleArea.dll
+D:\Projects\Visual Studio\C#\IntroAndBasicSyntaxExercises\2.RectangleArea\obj\Debug\netcoreapp2.0\2.RectangleArea.pdb

@@ -1,0 +1,10 @@
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\Extra_SeparatingNumbers\obj\Debug\netcoreapp2.0\Extra_SeparatingNumbers.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\Extra_SeparatingNumbers\obj\Debug\netcoreapp2.0\Extra_SeparatingNumbers.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\Extra_SeparatingNumbers\obj\Debug\netcoreapp2.0\Extra_SeparatingNumbers.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\Extra_SeparatingNumbers\bin\Debug\netcoreapp2.0\Extra_SeparatingNumbers.deps.json
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\Extra_SeparatingNumbers\bin\Debug\netcoreapp2.0\Extra_SeparatingNumbers.runtimeconfig.json
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\Extra_SeparatingNumbers\bin\Debug\netcoreapp2.0\Extra_SeparatingNumbers.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\Extra_SeparatingNumbers\bin\Debug\netcoreapp2.0\Extra_SeparatingNumbers.dll
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\Extra_SeparatingNumbers\bin\Debug\netcoreapp2.0\Extra_SeparatingNumbers.pdb
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\Extra_SeparatingNumbers\obj\Debug\netcoreapp2.0\Extra_SeparatingNumbers.dll
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\Extra_SeparatingNumbers\obj\Debug\netcoreapp2.0\Extra_SeparatingNumbers.pdb

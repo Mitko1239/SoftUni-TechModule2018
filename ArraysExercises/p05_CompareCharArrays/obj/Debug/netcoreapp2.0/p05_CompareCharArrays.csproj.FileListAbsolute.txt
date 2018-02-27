@@ -1,0 +1,10 @@
+D:\Projects\Visual Studio\C#\ArraysExercises\p05_CompareCharArrays\bin\Debug\netcoreapp2.0\p05_CompareCharArrays.deps.json
+D:\Projects\Visual Studio\C#\ArraysExercises\p05_CompareCharArrays\bin\Debug\netcoreapp2.0\p05_CompareCharArrays.runtimeconfig.json
+D:\Projects\Visual Studio\C#\ArraysExercises\p05_CompareCharArrays\bin\Debug\netcoreapp2.0\p05_CompareCharArrays.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\ArraysExercises\p05_CompareCharArrays\bin\Debug\netcoreapp2.0\p05_CompareCharArrays.dll
+D:\Projects\Visual Studio\C#\ArraysExercises\p05_CompareCharArrays\bin\Debug\netcoreapp2.0\p05_CompareCharArrays.pdb
+D:\Projects\Visual Studio\C#\ArraysExercises\p05_CompareCharArrays\obj\Debug\netcoreapp2.0\p05_CompareCharArrays.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\ArraysExercises\p05_CompareCharArrays\obj\Debug\netcoreapp2.0\p05_CompareCharArrays.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\ArraysExercises\p05_CompareCharArrays\obj\Debug\netcoreapp2.0\p05_CompareCharArrays.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\ArraysExercises\p05_CompareCharArrays\obj\Debug\netcoreapp2.0\p05_CompareCharArrays.dll
+D:\Projects\Visual Studio\C#\ArraysExercises\p05_CompareCharArrays\obj\Debug\netcoreapp2.0\p05_CompareCharArrays.pdb

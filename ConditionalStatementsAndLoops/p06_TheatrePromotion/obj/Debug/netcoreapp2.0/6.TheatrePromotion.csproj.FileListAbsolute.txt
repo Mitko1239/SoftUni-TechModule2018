@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoops\TheatrePromotion\bin\Debug\netcoreapp2.0\6.TheatrePromotion.deps.json
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoops\TheatrePromotion\bin\Debug\netcoreapp2.0\6.TheatrePromotion.runtimeconfig.json
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoops\TheatrePromotion\bin\Debug\netcoreapp2.0\6.TheatrePromotion.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoops\TheatrePromotion\bin\Debug\netcoreapp2.0\6.TheatrePromotion.dll
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoops\TheatrePromotion\bin\Debug\netcoreapp2.0\6.TheatrePromotion.pdb
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoops\TheatrePromotion\obj\Debug\netcoreapp2.0\6.TheatrePromotion.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoops\TheatrePromotion\obj\Debug\netcoreapp2.0\6.TheatrePromotion.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoops\TheatrePromotion\obj\Debug\netcoreapp2.0\6.TheatrePromotion.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoops\TheatrePromotion\obj\Debug\netcoreapp2.0\6.TheatrePromotion.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoops\TheatrePromotion\obj\Debug\netcoreapp2.0\6.TheatrePromotion.dll
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoops\TheatrePromotion\obj\Debug\netcoreapp2.0\6.TheatrePromotion.pdb

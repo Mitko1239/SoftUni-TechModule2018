@@ -1,0 +1,22 @@
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoopsExercises\MagicLetter\bin\Debug\netcoreapp2.0\MagicLetter.deps.json
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoopsExercises\MagicLetter\bin\Debug\netcoreapp2.0\MagicLetter.runtimeconfig.json
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoopsExercises\MagicLetter\bin\Debug\netcoreapp2.0\MagicLetter.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoopsExercises\MagicLetter\bin\Debug\netcoreapp2.0\MagicLetter.dll
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoopsExercises\MagicLetter\bin\Debug\netcoreapp2.0\MagicLetter.pdb
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoopsExercises\MagicLetter\obj\Debug\netcoreapp2.0\MagicLetter.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoopsExercises\MagicLetter\obj\Debug\netcoreapp2.0\MagicLetter.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoopsExercises\MagicLetter\obj\Debug\netcoreapp2.0\MagicLetter.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoopsExercises\MagicLetter\obj\Debug\netcoreapp2.0\MagicLetter.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoopsExercises\MagicLetter\obj\Debug\netcoreapp2.0\MagicLetter.dll
+D:\Projects\Visual Studio\C#\ConditionalStatementsAndLoopsExercises\MagicLetter\obj\Debug\netcoreapp2.0\MagicLetter.pdb
+D:\Projects\GitHub\SoftUni-TechModule2018\ConditionalStatementsAndLoopsExercises\p14_MagicLetter\bin\Debug\netcoreapp2.0\MagicLetter.deps.json
+D:\Projects\GitHub\SoftUni-TechModule2018\ConditionalStatementsAndLoopsExercises\p14_MagicLetter\bin\Debug\netcoreapp2.0\MagicLetter.runtimeconfig.json
+D:\Projects\GitHub\SoftUni-TechModule2018\ConditionalStatementsAndLoopsExercises\p14_MagicLetter\bin\Debug\netcoreapp2.0\MagicLetter.runtimeconfig.dev.json
+D:\Projects\GitHub\SoftUni-TechModule2018\ConditionalStatementsAndLoopsExercises\p14_MagicLetter\bin\Debug\netcoreapp2.0\MagicLetter.dll
+D:\Projects\GitHub\SoftUni-TechModule2018\ConditionalStatementsAndLoopsExercises\p14_MagicLetter\bin\Debug\netcoreapp2.0\MagicLetter.pdb
+D:\Projects\GitHub\SoftUni-TechModule2018\ConditionalStatementsAndLoopsExercises\p14_MagicLetter\obj\Debug\netcoreapp2.0\MagicLetter.csprojResolveAssemblyReference.cache
+D:\Projects\GitHub\SoftUni-TechModule2018\ConditionalStatementsAndLoopsExercises\p14_MagicLetter\obj\Debug\netcoreapp2.0\MagicLetter.csproj.CoreCompileInputs.cache
+D:\Projects\GitHub\SoftUni-TechModule2018\ConditionalStatementsAndLoopsExercises\p14_MagicLetter\obj\Debug\netcoreapp2.0\MagicLetter.AssemblyInfoInputs.cache
+D:\Projects\GitHub\SoftUni-TechModule2018\ConditionalStatementsAndLoopsExercises\p14_MagicLetter\obj\Debug\netcoreapp2.0\MagicLetter.AssemblyInfo.cs
+D:\Projects\GitHub\SoftUni-TechModule2018\ConditionalStatementsAndLoopsExercises\p14_MagicLetter\obj\Debug\netcoreapp2.0\MagicLetter.dll
+D:\Projects\GitHub\SoftUni-TechModule2018\ConditionalStatementsAndLoopsExercises\p14_MagicLetter\obj\Debug\netcoreapp2.0\MagicLetter.pdb

@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\C#\Arrays\LiveDemo\bin\Debug\netcoreapp2.0\LiveDemo.deps.json
+D:\Projects\Visual Studio\C#\Arrays\LiveDemo\bin\Debug\netcoreapp2.0\LiveDemo.runtimeconfig.json
+D:\Projects\Visual Studio\C#\Arrays\LiveDemo\bin\Debug\netcoreapp2.0\LiveDemo.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\Arrays\LiveDemo\bin\Debug\netcoreapp2.0\LiveDemo.dll
+D:\Projects\Visual Studio\C#\Arrays\LiveDemo\bin\Debug\netcoreapp2.0\LiveDemo.pdb
+D:\Projects\Visual Studio\C#\Arrays\LiveDemo\obj\Debug\netcoreapp2.0\LiveDemo.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\C#\Arrays\LiveDemo\obj\Debug\netcoreapp2.0\LiveDemo.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\Arrays\LiveDemo\obj\Debug\netcoreapp2.0\LiveDemo.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\Arrays\LiveDemo\obj\Debug\netcoreapp2.0\LiveDemo.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\Arrays\LiveDemo\obj\Debug\netcoreapp2.0\LiveDemo.dll
+D:\Projects\Visual Studio\C#\Arrays\LiveDemo\obj\Debug\netcoreapp2.0\LiveDemo.pdb

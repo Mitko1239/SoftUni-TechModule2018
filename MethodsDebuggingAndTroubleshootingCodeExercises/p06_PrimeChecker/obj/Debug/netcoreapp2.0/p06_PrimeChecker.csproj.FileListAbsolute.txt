@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p06_PrimeChecker\bin\Debug\netcoreapp2.0\p06_PrimeChecker.deps.json
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p06_PrimeChecker\bin\Debug\netcoreapp2.0\p06_PrimeChecker.runtimeconfig.json
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p06_PrimeChecker\bin\Debug\netcoreapp2.0\p06_PrimeChecker.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p06_PrimeChecker\bin\Debug\netcoreapp2.0\p06_PrimeChecker.dll
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p06_PrimeChecker\bin\Debug\netcoreapp2.0\p06_PrimeChecker.pdb
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p06_PrimeChecker\obj\Debug\netcoreapp2.0\p06_PrimeChecker.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p06_PrimeChecker\obj\Debug\netcoreapp2.0\p06_PrimeChecker.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p06_PrimeChecker\obj\Debug\netcoreapp2.0\p06_PrimeChecker.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p06_PrimeChecker\obj\Debug\netcoreapp2.0\p06_PrimeChecker.dll
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p06_PrimeChecker\obj\Debug\netcoreapp2.0\p06_PrimeChecker.pdb
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p06_PrimeChecker\obj\Debug\netcoreapp2.0\p06_PrimeChecker.csprojResolveAssemblyReference.cache

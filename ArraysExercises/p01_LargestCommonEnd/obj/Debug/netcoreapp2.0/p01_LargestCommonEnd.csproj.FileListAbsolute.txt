@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\C#\ArraysExercises\p01_LargestCommonEnd\obj\Debug\netcoreapp2.0\p01_LargestCommonEnd.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\C#\ArraysExercises\p01_LargestCommonEnd\obj\Debug\netcoreapp2.0\p01_LargestCommonEnd.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\ArraysExercises\p01_LargestCommonEnd\obj\Debug\netcoreapp2.0\p01_LargestCommonEnd.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\ArraysExercises\p01_LargestCommonEnd\obj\Debug\netcoreapp2.0\p01_LargestCommonEnd.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\ArraysExercises\p01_LargestCommonEnd\bin\Debug\netcoreapp2.0\p01_LargestCommonEnd.deps.json
+D:\Projects\Visual Studio\C#\ArraysExercises\p01_LargestCommonEnd\bin\Debug\netcoreapp2.0\p01_LargestCommonEnd.runtimeconfig.json
+D:\Projects\Visual Studio\C#\ArraysExercises\p01_LargestCommonEnd\bin\Debug\netcoreapp2.0\p01_LargestCommonEnd.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\ArraysExercises\p01_LargestCommonEnd\bin\Debug\netcoreapp2.0\p01_LargestCommonEnd.dll
+D:\Projects\Visual Studio\C#\ArraysExercises\p01_LargestCommonEnd\bin\Debug\netcoreapp2.0\p01_LargestCommonEnd.pdb
+D:\Projects\Visual Studio\C#\ArraysExercises\p01_LargestCommonEnd\obj\Debug\netcoreapp2.0\p01_LargestCommonEnd.dll
+D:\Projects\Visual Studio\C#\ArraysExercises\p01_LargestCommonEnd\obj\Debug\netcoreapp2.0\p01_LargestCommonEnd.pdb

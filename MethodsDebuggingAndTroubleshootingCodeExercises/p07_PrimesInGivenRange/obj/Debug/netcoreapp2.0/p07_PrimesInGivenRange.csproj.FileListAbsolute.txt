@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p07_PrimesInGivenRange\bin\Debug\netcoreapp2.0\p07_PrimesInGivenRange.deps.json
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p07_PrimesInGivenRange\bin\Debug\netcoreapp2.0\p07_PrimesInGivenRange.runtimeconfig.json
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p07_PrimesInGivenRange\bin\Debug\netcoreapp2.0\p07_PrimesInGivenRange.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p07_PrimesInGivenRange\bin\Debug\netcoreapp2.0\p07_PrimesInGivenRange.dll
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p07_PrimesInGivenRange\bin\Debug\netcoreapp2.0\p07_PrimesInGivenRange.pdb
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p07_PrimesInGivenRange\obj\Debug\netcoreapp2.0\p07_PrimesInGivenRange.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p07_PrimesInGivenRange\obj\Debug\netcoreapp2.0\p07_PrimesInGivenRange.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p07_PrimesInGivenRange\obj\Debug\netcoreapp2.0\p07_PrimesInGivenRange.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p07_PrimesInGivenRange\obj\Debug\netcoreapp2.0\p07_PrimesInGivenRange.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p07_PrimesInGivenRange\obj\Debug\netcoreapp2.0\p07_PrimesInGivenRange.dll
+D:\Projects\Visual Studio\C#\MethodsDebuggingAndTroubleshootingCodeExercises\p07_PrimesInGivenRange\obj\Debug\netcoreapp2.0\p07_PrimesInGivenRange.pdb

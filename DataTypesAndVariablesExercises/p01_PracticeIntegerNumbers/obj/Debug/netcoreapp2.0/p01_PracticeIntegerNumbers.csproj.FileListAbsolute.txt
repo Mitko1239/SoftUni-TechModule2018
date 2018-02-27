@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p01_PracticeIntegerNumbers\obj\Debug\netcoreapp2.0\p01_PracticeIntegerNumbers.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p01_PracticeIntegerNumbers\obj\Debug\netcoreapp2.0\p01_PracticeIntegerNumbers.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p01_PracticeIntegerNumbers\obj\Debug\netcoreapp2.0\p01_PracticeIntegerNumbers.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p01_PracticeIntegerNumbers\obj\Debug\netcoreapp2.0\p01_PracticeIntegerNumbers.AssemblyInfo.cs
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p01_PracticeIntegerNumbers\bin\Debug\netcoreapp2.0\p01_PracticeIntegerNumbers.deps.json
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p01_PracticeIntegerNumbers\bin\Debug\netcoreapp2.0\p01_PracticeIntegerNumbers.runtimeconfig.json
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p01_PracticeIntegerNumbers\bin\Debug\netcoreapp2.0\p01_PracticeIntegerNumbers.runtimeconfig.dev.json
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p01_PracticeIntegerNumbers\bin\Debug\netcoreapp2.0\p01_PracticeIntegerNumbers.dll
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p01_PracticeIntegerNumbers\bin\Debug\netcoreapp2.0\p01_PracticeIntegerNumbers.pdb
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p01_PracticeIntegerNumbers\obj\Debug\netcoreapp2.0\p01_PracticeIntegerNumbers.dll
+D:\Projects\Visual Studio\C#\DataTypesAndVariablesExercises\p01_PracticeIntegerNumbers\obj\Debug\netcoreapp2.0\p01_PracticeIntegerNumbers.pdb
