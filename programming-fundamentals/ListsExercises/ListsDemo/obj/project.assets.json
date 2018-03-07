@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Projects\\GitHub\\SoftUni-TechModule2018\\ListsExercises\\ListsDemo\\ListsDemo.csproj",
+      "projectUniqueName": "D:\\Projects\\GitHub\\SoftUni-TechModule2018\\programming-fundamentals\\ListsExercises\\ListsDemo\\ListsDemo.csproj",
       "projectName": "ListsDemo",
-      "projectPath": "D:\\Projects\\GitHub\\SoftUni-TechModule2018\\ListsExercises\\ListsDemo\\ListsDemo.csproj",
+      "projectPath": "D:\\Projects\\GitHub\\SoftUni-TechModule2018\\programming-fundamentals\\ListsExercises\\ListsDemo\\ListsDemo.csproj",
       "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\GitHub\\SoftUni-TechModule2018\\ListsExercises\\ListsDemo\\obj\\",
+      "outputPath": "D:\\Projects\\GitHub\\SoftUni-TechModule2018\\programming-fundamentals\\ListsExercises\\ListsDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

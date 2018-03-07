@@ -1,0 +1,10 @@
+D:\Projects\GitHub\SoftUni-TechModule2018\programming-fundamentals\ExamPreparation4\p03b\bin\Debug\netcoreapp2.0\p03b.deps.json
+D:\Projects\GitHub\SoftUni-TechModule2018\programming-fundamentals\ExamPreparation4\p03b\bin\Debug\netcoreapp2.0\p03b.runtimeconfig.json
+D:\Projects\GitHub\SoftUni-TechModule2018\programming-fundamentals\ExamPreparation4\p03b\bin\Debug\netcoreapp2.0\p03b.runtimeconfig.dev.json
+D:\Projects\GitHub\SoftUni-TechModule2018\programming-fundamentals\ExamPreparation4\p03b\bin\Debug\netcoreapp2.0\p03b.dll
+D:\Projects\GitHub\SoftUni-TechModule2018\programming-fundamentals\ExamPreparation4\p03b\bin\Debug\netcoreapp2.0\p03b.pdb
+D:\Projects\GitHub\SoftUni-TechModule2018\programming-fundamentals\ExamPreparation4\p03b\obj\Debug\netcoreapp2.0\p03b.csproj.CoreCompileInputs.cache
+D:\Projects\GitHub\SoftUni-TechModule2018\programming-fundamentals\ExamPreparation4\p03b\obj\Debug\netcoreapp2.0\p03b.AssemblyInfoInputs.cache
+D:\Projects\GitHub\SoftUni-TechModule2018\programming-fundamentals\ExamPreparation4\p03b\obj\Debug\netcoreapp2.0\p03b.AssemblyInfo.cs
+D:\Projects\GitHub\SoftUni-TechModule2018\programming-fundamentals\ExamPreparation4\p03b\obj\Debug\netcoreapp2.0\p03b.dll
+D:\Projects\GitHub\SoftUni-TechModule2018\programming-fundamentals\ExamPreparation4\p03b\obj\Debug\netcoreapp2.0\p03b.pdb

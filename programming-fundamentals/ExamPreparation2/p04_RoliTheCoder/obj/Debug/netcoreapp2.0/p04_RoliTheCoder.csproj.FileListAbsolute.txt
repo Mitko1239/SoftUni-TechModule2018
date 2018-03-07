@@ -1,0 +1,11 @@
+D:\Projects\GitHub\SoftUni-TechModule2018\programming-fundamentals\ExamPreparations2\p04_RoliTheCoder\bin\Debug\netcoreapp2.0\p04_RoliTheCoder.deps.json
+D:\Projects\GitHub\SoftUni-TechModule2018\programming-fundamentals\ExamPreparations2\p04_RoliTheCoder\bin\Debug\netcoreapp2.0\p04_RoliTheCoder.runtimeconfig.json
+D:\Projects\GitHub\SoftUni-TechModule2018\programming-fundamentals\ExamPreparations2\p04_RoliTheCoder\bin\Debug\netcoreapp2.0\p04_RoliTheCoder.runtimeconfig.dev.json
+D:\Projects\GitHub\SoftUni-TechModule2018\programming-fundamentals\ExamPreparations2\p04_RoliTheCoder\bin\Debug\netcoreapp2.0\p04_RoliTheCoder.dll
+D:\Projects\GitHub\SoftUni-TechModule2018\programming-fundamentals\ExamPreparations2\p04_RoliTheCoder\bin\Debug\netcoreapp2.0\p04_RoliTheCoder.pdb
+D:\Projects\GitHub\SoftUni-TechModule2018\programming-fundamentals\ExamPreparations2\p04_RoliTheCoder\obj\Debug\netcoreapp2.0\p04_RoliTheCoder.csproj.CoreCompileInputs.cache
+D:\Projects\GitHub\SoftUni-TechModule2018\programming-fundamentals\ExamPreparations2\p04_RoliTheCoder\obj\Debug\netcoreapp2.0\p04_RoliTheCoder.AssemblyInfoInputs.cache
+D:\Projects\GitHub\SoftUni-TechModule2018\programming-fundamentals\ExamPreparations2\p04_RoliTheCoder\obj\Debug\netcoreapp2.0\p04_RoliTheCoder.AssemblyInfo.cs
+D:\Projects\GitHub\SoftUni-TechModule2018\programming-fundamentals\ExamPreparations2\p04_RoliTheCoder\obj\Debug\netcoreapp2.0\p04_RoliTheCoder.dll
+D:\Projects\GitHub\SoftUni-TechModule2018\programming-fundamentals\ExamPreparations2\p04_RoliTheCoder\obj\Debug\netcoreapp2.0\p04_RoliTheCoder.pdb
+D:\Projects\GitHub\SoftUni-TechModule2018\programming-fundamentals\ExamPreparations2\p04_RoliTheCoder\obj\Debug\netcoreapp2.0\p04_RoliTheCoder.csprojResolveAssemblyReference.cache

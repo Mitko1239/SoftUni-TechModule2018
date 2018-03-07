@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Projects\\GitHub\\SoftUni-TechModule2018\\ListsExercises\\p06_SumReversedNumbers\\p06_SumReversedNumbers.csproj",
+      "projectUniqueName": "D:\\Projects\\GitHub\\SoftUni-TechModule2018\\programming-fundamentals\\ListsExercises\\p06_SumReversedNumbers\\p06_SumReversedNumbers.csproj",
       "projectName": "p06_SumReversedNumbers",
-      "projectPath": "D:\\Projects\\GitHub\\SoftUni-TechModule2018\\ListsExercises\\p06_SumReversedNumbers\\p06_SumReversedNumbers.csproj",
+      "projectPath": "D:\\Projects\\GitHub\\SoftUni-TechModule2018\\programming-fundamentals\\ListsExercises\\p06_SumReversedNumbers\\p06_SumReversedNumbers.csproj",
       "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\GitHub\\SoftUni-TechModule2018\\ListsExercises\\p06_SumReversedNumbers\\obj\\",
+      "outputPath": "D:\\Projects\\GitHub\\SoftUni-TechModule2018\\programming-fundamentals\\ListsExercises\\p06_SumReversedNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

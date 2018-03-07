@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Projects\\GitHub\\SoftUni-TechModule2018\\ListsExercises\\p01_MaxSequenceOfEqualElements\\p01_MaxSequenceOfEqualElements.csproj",
+      "projectUniqueName": "D:\\Projects\\GitHub\\SoftUni-TechModule2018\\programming-fundamentals\\ListsExercises\\p01_MaxSequenceOfEqualElements\\p01_MaxSequenceOfEqualElements.csproj",
       "projectName": "p01_MaxSequenceOfEqualElements",
-      "projectPath": "D:\\Projects\\GitHub\\SoftUni-TechModule2018\\ListsExercises\\p01_MaxSequenceOfEqualElements\\p01_MaxSequenceOfEqualElements.csproj",
+      "projectPath": "D:\\Projects\\GitHub\\SoftUni-TechModule2018\\programming-fundamentals\\ListsExercises\\p01_MaxSequenceOfEqualElements\\p01_MaxSequenceOfEqualElements.csproj",
       "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\GitHub\\SoftUni-TechModule2018\\ListsExercises\\p01_MaxSequenceOfEqualElements\\obj\\",
+      "outputPath": "D:\\Projects\\GitHub\\SoftUni-TechModule2018\\programming-fundamentals\\ListsExercises\\p01_MaxSequenceOfEqualElements\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

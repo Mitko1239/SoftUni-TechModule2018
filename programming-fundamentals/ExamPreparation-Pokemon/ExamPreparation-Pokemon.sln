@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p01_PokeMon", "p01_PokeMon\p01_PokeMon.csproj", "{77B02329-DEB7-44A1-973A-93D67E19016E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p01_PokeMon", "p01_PokeMon\p01_PokeMon.csproj", "{77B02329-DEB7-44A1-973A-93D67E19016E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p01b_PokeMon_ProperSolution", "p01b_PokeMon_ProperSolution\p01b_PokeMon_ProperSolution.csproj", "{3EB53049-54DB-4321-B859-C2C0D0D6C32B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p01b_PokeMon_ProperSolution", "p01b_PokeMon_ProperSolution\p01b_PokeMon_ProperSolution.csproj", "{3EB53049-54DB-4321-B859-C2C0D0D6C32B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p02_PokemonDontGo", "p02_PokemonDontGo\p02_PokemonDontGo.csproj", "{494B84CD-C2A3-4C07-9284-AF35FD4B0C93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p02_PokemonDontGo", "p02_PokemonDontGo\p02_PokemonDontGo.csproj", "{494B84CD-C2A3-4C07-9284-AF35FD4B0C93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p03_Regexmon", "p03_Regexmon\p03_Regexmon.csproj", "{13D9155E-4ADF-46C9-8469-623766C91E71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p03_Regexmon", "p03_Regexmon\p03_Regexmon.csproj", "{13D9155E-4ADF-46C9-8469-623766C91E71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p04_PokemonEvolution_Objects", "p04_PokemonEvolution_Objects\p04_PokemonEvolution_Objects.csproj", "{FDC8C74B-4184-4D2C-A3A3-26023F716478}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p04_PokemonEvolution_Objects", "p04_PokemonEvolution_Objects\p04_PokemonEvolution_Objects.csproj", "{FDC8C74B-4184-4D2C-A3A3-26023F716478}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p04b_PokemonEvolution", "p04b_PokemonEvolution\p04b_PokemonEvolution.csproj", "{D3A7DAF6-AE56-473A-9F70-528C6B5B4272}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p04b_PokemonEvolution", "p04b_PokemonEvolution\p04b_PokemonEvolution.csproj", "{D3A7DAF6-AE56-473A-9F70-528C6B5B4272}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{E9FD4458-9CAF-4B5C-A6CC-6A3D71086CE8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{D3A7DAF6-AE56-473A-9F70-528C6B5B4272}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3A7DAF6-AE56-473A-9F70-528C6B5B4272}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3A7DAF6-AE56-473A-9F70-528C6B5B4272}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9FD4458-9CAF-4B5C-A6CC-6A3D71086CE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9FD4458-9CAF-4B5C-A6CC-6A3D71086CE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9FD4458-9CAF-4B5C-A6CC-6A3D71086CE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9FD4458-9CAF-4B5C-A6CC-6A3D71086CE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

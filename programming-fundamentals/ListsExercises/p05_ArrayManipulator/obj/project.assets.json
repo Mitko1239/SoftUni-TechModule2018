@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Projects\\GitHub\\SoftUni-TechModule2018\\ListsExercises\\p05_ArrayManipulator\\p05_ArrayManipulator.csproj",
+      "projectUniqueName": "D:\\Projects\\GitHub\\SoftUni-TechModule2018\\programming-fundamentals\\ListsExercises\\p05_ArrayManipulator\\p05_ArrayManipulator.csproj",
       "projectName": "p05_ArrayManipulator",
-      "projectPath": "D:\\Projects\\GitHub\\SoftUni-TechModule2018\\ListsExercises\\p05_ArrayManipulator\\p05_ArrayManipulator.csproj",
+      "projectPath": "D:\\Projects\\GitHub\\SoftUni-TechModule2018\\programming-fundamentals\\ListsExercises\\p05_ArrayManipulator\\p05_ArrayManipulator.csproj",
       "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\GitHub\\SoftUni-TechModule2018\\ListsExercises\\p05_ArrayManipulator\\obj\\",
+      "outputPath": "D:\\Projects\\GitHub\\SoftUni-TechModule2018\\programming-fundamentals\\ListsExercises\\p05_ArrayManipulator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

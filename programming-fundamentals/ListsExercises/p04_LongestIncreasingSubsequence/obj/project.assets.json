@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Projects\\GitHub\\SoftUni-TechModule2018\\ListsExercises\\p04_LongestIncreasingSubsequence\\p04_LongestIncreasingSubsequence.csproj",
+      "projectUniqueName": "D:\\Projects\\GitHub\\SoftUni-TechModule2018\\programming-fundamentals\\ListsExercises\\p04_LongestIncreasingSubsequence\\p04_LongestIncreasingSubsequence.csproj",
       "projectName": "p04_LongestIncreasingSubsequence",
-      "projectPath": "D:\\Projects\\GitHub\\SoftUni-TechModule2018\\ListsExercises\\p04_LongestIncreasingSubsequence\\p04_LongestIncreasingSubsequence.csproj",
+      "projectPath": "D:\\Projects\\GitHub\\SoftUni-TechModule2018\\programming-fundamentals\\ListsExercises\\p04_LongestIncreasingSubsequence\\p04_LongestIncreasingSubsequence.csproj",
       "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\GitHub\\SoftUni-TechModule2018\\ListsExercises\\p04_LongestIncreasingSubsequence\\obj\\",
+      "outputPath": "D:\\Projects\\GitHub\\SoftUni-TechModule2018\\programming-fundamentals\\ListsExercises\\p04_LongestIncreasingSubsequence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
